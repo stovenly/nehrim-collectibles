@@ -9,6 +9,9 @@ const KINDS = {
 };
 const KNOWN_PLUGINS = new Set(['nehrim.esm', 'translation.esp', 'magic symbol collection.esp', 'fire sparks collection.esp', 'ice claws collection.esp']);
 
+// The per-collectible location pages link back as ?kind=<key> so a save dropped here opens on what they were reading.
+const linkedKind = new URLSearchParams(location.search).get('kind');
+
 const $ = id => document.getElementById(id);
 const el = (tag, { dataset, ...props } = {}, ...kids) => {
   const e = Object.assign(document.createElement(tag), props);
@@ -21,7 +24,7 @@ const icon = kind => el('img', { className: 'icon', src: `img/${kind}.png`, alt:
 const state = {
   data: null,
   found: new Set(),
-  kinds: new Set(['symbol']),
+  kinds: new Set([Object.hasOwn(KINDS, linkedKind) ? linkedKind : 'symbol']),
   showFound: false,
   selected: new Set(),
   world: 'nehrim',
