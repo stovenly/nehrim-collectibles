@@ -326,9 +326,11 @@ function applyView() {
   v.s = Math.min(12, Math.max(1, v.s));
   v.x = Math.min(0, Math.max(width - width * v.s, v.x));
   v.y = Math.min(0, Math.max(height - height * v.s, v.y));
-  stage.style.width = `${width}px`;
-  stage.style.height = `${height}px`;
-  stage.style.transform = `translate(${v.x}px, ${v.y}px) scale(${v.s})`;
+  // Sized in real pixels and only translated: a scale() here would make the browser stretch one cached raster of the
+  // whole map instead of drawing the tiles at their own resolution.
+  stage.style.width = `${width * v.s}px`;
+  stage.style.height = `${height * v.s}px`;
+  stage.style.transform = `translate(${v.x}px, ${v.y}px)`;
   if (laidOut !== `${width}|${v.s}`) layoutPins();
   pins.style.transform = `translate(${v.x}px, ${v.y}px)`;
   renderTiles(width, height);
@@ -343,12 +345,13 @@ function renderTiles(width, height) {
   const v = state.view;
   const z = Math.max(t.min, Math.min(t.max, Math.ceil(Math.log2((width * v.s) / t.size))));
   const n = 2 ** z;
-  const side = width / n;
-  const lo = (px, s) => Math.floor((-v[px] / v.s) / (s / n));
-  const hi = (px, s, box) => Math.floor(((box - v[px]) / v.s) / (s / n));
+  const side = (width * v.s) / n;
+  const first = (off, box) => [Math.max(0, Math.floor(-off / side)), Math.min(n - 1, Math.floor((box - off) / side))];
+  const [x0, x1] = first(v.x, width);
+  const [y0, y1] = first(v.y, height);
   const keep = new Set();
-  for (let x = Math.max(0, lo('x', width)); x <= Math.min(n - 1, hi('x', width, width)); x++) {
-    for (let y = Math.max(0, lo('y', height)); y <= Math.min(n - 1, hi('y', height, height)); y++) {
+  for (let x = x0; x <= x1; x++) {
+    for (let y = y0; y <= y1; y++) {
       const key = `${z}/${x}/${y}`;
       keep.add(key);
       let e = tileEls.get(key);
