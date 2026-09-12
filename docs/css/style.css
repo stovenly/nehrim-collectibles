@@ -63,7 +63,7 @@ h1::after {
 .drop:hover .drop-inner, .drop:focus-visible .drop-inner, .drop.over .drop-inner { background: rgba(120, 80, 30, .1); border-color: var(--ink-2); }
 .drop-title { font-size: 21px; margin: 0 0 6px; }
 .drop-hint { margin: 2px 0; color: var(--ink-2); font-size: 14px; }
-.drop-note { margin: 12px 0 0; color: var(--ink-2); font-size: 14px; font-style: italic; }
+.drop-note { margin: 12px 0 0; color: var(--ink-2); font-size: 14.5px; }
 
 .about { margin-block: 22px; max-width: 920px; margin-inline: auto; }
 .about h2 { font-family: "IM Fell English SC", Georgia, serif; font-weight: 400; font-size: 25px; margin: 22px 0 6px; }
@@ -155,6 +155,26 @@ h1::after {
 .map-ctrl button { width: 32px; height: 32px; padding: 0; font: 18px/1 Georgia, serif; }
 .tip { position: absolute; z-index: 5; pointer-events: none; max-width: 260px; background: #efe0bd; border: 1px solid var(--ink-2); box-shadow: 0 3px 8px rgba(0, 0, 0, .45); padding: 5px 9px; font-size: 15px; }
 .tip div + div { margin-top: 3px; }
+
+.crumbs { color: rgba(236, 220, 180, .8); font-size: 14.5px; margin: 0 0 10px; text-shadow: 0 1px 2px #000; }
+.crumbs a { color: var(--gold); }
+
+.loc-panel { max-width: 920px; margin-inline: auto; }
+.loc { width: 100%; border-collapse: collapse; font-size: 15.5px; }
+.loc th {
+  text-align: left; font-family: "IM Fell English SC", Georgia, serif; font-weight: 400; font-size: 17px;
+  border-bottom: 1px solid var(--rule); padding: 0 12px 6px 0;
+}
+.loc td { vertical-align: top; padding: 8px 12px 8px 0; border-bottom: 1px solid rgba(70, 45, 20, .16); }
+.loc tr:last-child td { border-bottom: 0; }
+.loc td:last-child, .loc th:last-child { padding-right: 0; }
+.rowid { color: var(--ink-2); font: .78em ui-monospace, "Cascadia Mono", Consolas, monospace; white-space: nowrap; }
+.rowwhere { color: var(--ink-2); font-size: 14px; }
+@media (max-width: 700px) {
+  .loc thead { display: none; }
+  .loc tr { display: block; padding: 9px 0; border-bottom: 1px solid rgba(70, 45, 20, .16); }
+  .loc td { display: block; border: 0; padding: 0 0 2px; }
+}
 
 .list-count { margin: 0 0 6px; font-style: italic; }
 .list { list-style: none; margin: 0; padding: 0; }
