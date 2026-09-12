@@ -27,7 +27,7 @@ body {
 }
 a { color: var(--red); }
 code { font: .8em ui-monospace, "Cascadia Mono", Consolas, monospace; color: var(--ink); background: rgba(90, 60, 25, .1); padding: .05em .35em; border-radius: 3px; overflow-wrap: anywhere; }
-.wrap { max-width: 1280px; margin: 0 auto; padding-inline: 20px; }
+.wrap { max-width: 1600px; margin: 0 auto; padding-inline: 20px; }
 .muted { color: var(--ink-2); }
 .sc { font-family: "IM Fell English SC", Georgia, serif; }
 
@@ -125,7 +125,7 @@ h1::after {
 .toggle { display: inline-flex; gap: 8px; align-items: center; color: var(--light); font-size: 17px; cursor: pointer; text-shadow: 0 1px 2px #000; }
 .toggle input { accent-color: var(--gold); width: 16px; height: 16px; }
 
-.board { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); gap: 16px; align-items: start; }
+.board { display: grid; grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr); gap: 18px; align-items: start; }
 @media (max-width: 900px) { .board { grid-template-columns: minmax(0, 1fr); } }
 
 .map-panel { position: sticky; top: 12px; }
@@ -134,7 +134,7 @@ h1::after {
 .map-tabs button { background: none; border: 0; border-bottom: 2px solid transparent; color: rgba(236, 220, 180, .65); font: 18px "IM Fell English SC", Georgia, serif; padding: 2px 2px; cursor: pointer; text-shadow: 0 1px 2px #000; }
 .map-tabs button[aria-selected="true"] { color: var(--light); border-color: var(--gold); }
 .map {
-  position: relative; overflow: hidden; aspect-ratio: 1 / 1; max-height: 80vh;
+  position: relative; overflow: hidden; aspect-ratio: 1 / 1; max-height: 88vh;
   border: 4px solid #3b2714; outline: 1px solid rgba(202, 165, 94, .5); outline-offset: -1px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, .6);
   background: #cdbb90; touch-action: none; cursor: grab; user-select: none;
