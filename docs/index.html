@@ -62,10 +62,12 @@
   </section>
 
   <section id="about" class="about paper">
-    <h2>Find what you are still missing in Nehrim</h2>
-    <p><i>Nehrim: At Fate&rsquo;s Edge</i> scatters five sets of collectibles across its world, and the game will only tell you
-      how many you have found &mdash; never which ones are left. Drop a save on this page and it reads the save in your browser,
-      works out what is still out there, and shows it as a list and as pins on the world map.</p>
+    <h2>Find the collectibles you are still missing in Nehrim</h2>
+    <p>Nehrim hides five kinds of collectibles. The game counts how many you have picked up, but it never tells you
+      which ones, so tracking down the last few means working through a guide location by location and trying to
+      remember where you have already been.</p>
+    <p>Load a save here and the page works out which ones you already have. What is left is shown as a list, with the
+      location of each one, and as pins on the world map.</p>
 
     <h2>What it tracks</h2>
     <ul class="about-list">
@@ -75,14 +77,16 @@
       <li><b>22 Almanacs of Conjuration</b>, one of them carried by the Keeper of the Last Barrier.</li>
       <li><b>27 Potions of Encumbrance</b>.</li>
     </ul>
-    <p>Those totals are counted out of <code>Nehrim.esm</code> itself rather than copied from a wiki, so they include the
-      placements the guides miss.</p>
+    <p>The counts are read out of <code>Nehrim.esm</code>, not copied from a wiki, so they include placements the guides
+      have missed.</p>
 
     <h2>How it reads a save</h2>
-    <p>Symbols and plants disable themselves when you take them, and loose items are deleted from the world; both leave a
-      record in the save. Copies held by a corpse or a container are found by reading that reference&rsquo;s inventory. The
-      page also compares the game&rsquo;s own symbol counter against what the save shows and warns you if they disagree.</p>
-    <p>Everything happens in the browser. The save is never uploaded, and there is nothing to install.</p>
+    <p>Symbols and plants disable themselves when you take them, and loose items are deleted from the world. Either way
+      the save keeps a record of it, and that is what the page reads. Ones held by a corpse or a container are found by
+      checking that inventory instead.</p>
+    <p>It also compares the game&rsquo;s own symbol counter against what the save shows, and warns you if the two
+      disagree.</p>
+    <p>The save is read in your browser. Nothing is uploaded, and there is nothing to install.</p>
   </section>
 
   <p id="error" class="error paper" hidden></p>
