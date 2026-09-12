@@ -208,6 +208,7 @@ const map = $('map');
 const stage = $('stage');
 const pins = $('pins');
 const img = $('map-img');
+const tiles = $('tiles');
 const tip = $('tip');
 
 function renderMapTabs() {
@@ -225,6 +226,8 @@ function setWorld(k) {
   for (const b of $('map-tabs').children) b.setAttribute('aria-selected', b.dataset.world === k);
   map.style.aspectRatio = `${w.width} / ${w.height}`;
   img.src = asset(w.image);
+  tiles.replaceChildren();
+  tileEls.clear();
   resetView();
 }
 
@@ -328,7 +331,41 @@ function applyView() {
   stage.style.transform = `translate(${v.x}px, ${v.y}px) scale(${v.s})`;
   if (laidOut !== `${width}|${v.s}`) layoutPins();
   pins.style.transform = `translate(${v.x}px, ${v.y}px)`;
+  renderTiles(width, height);
   tip.hidden = true;
+}
+
+// The flat image under .tiles is the whole map at zoom 3, so it stands in wherever sharper tiles are not loaded yet.
+const tileEls = new Map();
+function renderTiles(width, height) {
+  const t = state.data.worlds[state.world].tiles;
+  if (!t) return;
+  const v = state.view;
+  const z = Math.max(t.min, Math.min(t.max, Math.ceil(Math.log2((width * v.s) / t.size))));
+  const n = 2 ** z;
+  const side = width / n;
+  const lo = (px, s) => Math.floor((-v[px] / v.s) / (s / n));
+  const hi = (px, s, box) => Math.floor(((box - v[px]) / v.s) / (s / n));
+  const keep = new Set();
+  for (let x = Math.max(0, lo('x', width)); x <= Math.min(n - 1, hi('x', width, width)); x++) {
+    for (let y = Math.max(0, lo('y', height)); y <= Math.min(n - 1, hi('y', height, height)); y++) {
+      const key = `${z}/${x}/${y}`;
+      keep.add(key);
+      let e = tileEls.get(key);
+      if (!e) {
+        e = el('img', { src: asset(`${t.path}/${key}.webp`), alt: '', draggable: false, decoding: 'async' });
+        tiles.append(e);
+        tileEls.set(key, e);
+      }
+      e.style.cssText = `left:${x * side}px;top:${y * side}px;width:${side}px;height:${side}px`;
+    }
+  }
+  for (const [key, e] of tileEls) {
+    if (!keep.has(key)) {
+      e.remove();
+      tileEls.delete(key);
+    }
+  }
 }
 
 // Tweened in JS, not by a CSS transition: the pin layer has to track the map's scale frame by frame.

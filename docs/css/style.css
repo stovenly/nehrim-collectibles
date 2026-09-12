@@ -141,7 +141,9 @@ h1::after {
 }
 .map.dragging { cursor: grabbing; }
 .stage { position: absolute; left: 0; top: 0; transform-origin: 0 0; will-change: transform; }
-.stage > img { display: block; width: 100%; height: 100%; }
+.stage > img { display: block; width: 100%; height: 100%; position: absolute; left: 0; top: 0; }
+.tiles { position: absolute; left: 0; top: 0; }
+.tiles > img { position: absolute; display: block; }
 /* Outside .stage so the pins never go through its scale: they stay one screen size and raster sharp. */
 .pins { position: absolute; left: 0; top: 0; transform-origin: 0 0; will-change: transform; pointer-events: none; }
 .pin { position: absolute; width: 0; height: 0; }
