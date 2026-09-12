@@ -1,0 +1,7 @@
+tools/
+research/
+specs/
+__pycache__/
+node_modules/
+*.ess
+*.obse
