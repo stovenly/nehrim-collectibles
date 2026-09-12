@@ -9,8 +9,11 @@ const KINDS = {
 };
 const KNOWN_PLUGINS = new Set(['nehrim.esm', 'translation.esp', 'magic symbol collection.esp', 'fire sparks collection.esp', 'ice claws collection.esp']);
 
-// The per-collectible location pages link back as ?kind=<key> so a save dropped here opens on what they were reading.
-const linkedKind = new URLSearchParams(location.search).get('kind');
+// app.js sits at <root>/js/, so this resolves assets the same from the landing page and from a collectible page.
+const BASE = new URL('../', import.meta.url);
+const asset = path => new URL(path, BASE).href;
+// A collectible page declares its own kind; the landing page can be sent one with ?kind=<key>.
+const linkedKind = document.body.dataset.kind || new URLSearchParams(location.search).get('kind');
 
 const $ = id => document.getElementById(id);
 const el = (tag, { dataset, ...props } = {}, ...kids) => {
@@ -19,7 +22,7 @@ const el = (tag, { dataset, ...props } = {}, ...kids) => {
   e.append(...kids.filter(k => k != null));
   return e;
 };
-const icon = kind => el('img', { className: 'icon', src: `img/${kind}.png`, alt: '', draggable: false });
+const icon = kind => el('img', { className: 'icon', src: asset(`img/${kind}.png`), alt: '', draggable: false });
 
 const state = {
   data: null,
@@ -31,7 +34,7 @@ const state = {
   view: { s: 1, x: 0, y: 0 },
 };
 
-const dataReady = fetch('data/collectibles.json').then(r => r.json()).then(d => (state.data = d));
+const dataReady = fetch(asset('data/collectibles.json')).then(r => r.json()).then(d => (state.data = d));
 
 // ---------- file input ----------
 
@@ -221,7 +224,7 @@ function setWorld(k) {
   const w = state.data.worlds[k];
   for (const b of $('map-tabs').children) b.setAttribute('aria-selected', b.dataset.world === k);
   map.style.aspectRatio = `${w.width} / ${w.height}`;
-  img.src = w.image;
+  img.src = asset(w.image);
   resetView();
 }
 
@@ -239,7 +242,7 @@ function renderPins(items) {
     const i = group[0];
     const allFound = group.every(g => state.found.has(g.id));
     const pin = el('div', { className: `pin ${i.kind}${allFound ? ' found' : ''}`, dataset: { kind: i.kind, ids: group.map(g => g.id).join(' ') } },
-      el('img', { src: `img/${i.kind}.png`, alt: '', draggable: false }), group.length > 1 ? el('span', { textContent: group.length }) : null);
+      el('img', { src: asset(`img/${i.kind}.png`), alt: '', draggable: false }), group.length > 1 ? el('span', { textContent: group.length }) : null);
     pin._u = i.map.u;
     pin._v = i.map.v;
     pin._items = group;

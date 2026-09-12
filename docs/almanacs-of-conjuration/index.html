@@ -12,88 +12,132 @@
 
   gtag('config', 'G-N5HLVM77Q7');
 </script>
-<title>All 22 Almanacs of Conjuration in Nehrim — location list</title>
-<meta name="description" content="Every one of the 22 Almanacs of Conjuration in Nehrim: At Fate’s Edge and where each one is. Load a save on the tracker to see only the ones you are still missing.">
+<title>Nehrim Almanacs of Conjuration Tracker — see which of the 22 you are missing</title>
+<meta name="description" content="Drop a Nehrim save on the page and see which of the 22 Almanacs of Conjuration you have not collected yet, listed with their locations and pinned on the world map.">
 <link rel="canonical" href="https://stovenly.github.io/nehrim-collectibles/almanacs-of-conjuration/">
 <meta name="theme-color" content="#1b120a">
 <link rel="icon" href="../favicon.ico" sizes="any">
 <link rel="apple-touch-icon" href="../img/icon-180.png">
-<meta property="og:type" content="article">
+<meta property="og:type" content="website">
 <meta property="og:site_name" content="Nehrim Collectibles Tracker">
-<meta property="og:title" content="All 22 Almanacs of Conjuration in Nehrim — location list">
-<meta property="og:description" content="Every one of the 22 Almanacs of Conjuration in Nehrim: At Fate’s Edge and where each one is. Load a save on the tracker to see only the ones you are still missing.">
+<meta property="og:title" content="Nehrim Almanacs of Conjuration Tracker — see which of the 22 you are missing">
+<meta property="og:description" content="Drop a Nehrim save on the page and see which of the 22 Almanacs of Conjuration you have not collected yet, listed with their locations and pinned on the world map.">
 <meta property="og:url" content="https://stovenly.github.io/nehrim-collectibles/almanacs-of-conjuration/">
 <meta property="og:image" content="https://stovenly.github.io/nehrim-collectibles/img/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="The Nehrim world map behind the title Nehrim Collectibles Tracker and the five collectible icons">
+<meta property="og:locale" content="en_GB">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Nehrim Almanacs of Conjuration Tracker — see which of the 22 you are missing">
+<meta name="twitter:description" content="Drop a Nehrim save on the page and see which of the 22 Almanacs of Conjuration you have not collected yet, listed with their locations and pinned on the world map.">
 <meta name="twitter:image" content="https://stovenly.github.io/nehrim-collectibles/img/og.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&amp;family=IM+Fell+English+SC&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../css/style.css">
+<script type="module" src="../js/app.js"></script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "All 22 Almanacs of Conjuration in Nehrim — location list",
+  "@type": "WebApplication",
+  "name": "Nehrim Almanacs of Conjuration Tracker",
   "url": "https://stovenly.github.io/nehrim-collectibles/almanacs-of-conjuration/",
-  "numberOfItems": 22,
-  "itemListOrder": "https://schema.org/ItemListOrderAscending"
+  "applicationCategory": "GameApplication",
+  "operatingSystem": "Any browser",
+  "browserRequirements": "Requires JavaScript",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+  "description": "Drop a Nehrim save on the page and see which of the 22 Almanacs of Conjuration you have not collected yet, listed with their locations and pinned on the world map.",
+  "screenshot": "https://stovenly.github.io/nehrim-collectibles/img/og.jpg",
+  "about": { "@type": "VideoGame", "name": "Nehrim: At Fate's Edge", "publisher": { "@type": "Organization", "name": "SureAI" } }
 }
 </script>
 </head>
-<body>
+<body data-kind="almanac">
 <header class="masthead">
   <div class="wrap">
-    <a href="../?kind=almanac" aria-label="Nehrim Collectibles Tracker"><img class="mark" src="../img/mark.png" width="88" height="88" alt="" draggable="false"></a>
-    <h1>All 22 Almanacs of Conjuration in Nehrim</h1>
+    <img class="mark" src="../img/mark.png" width="88" height="88" alt="" draggable="false">
+    <h1>Nehrim Almanacs of Conjuration Tracker</h1>
   </div>
 </header>
 
 <main class="wrap">
-  <nav class="crumbs"><a href="../?kind=almanac">Nehrim Collectibles Tracker</a> &rsaquo; Almanacs of Conjuration</nav>
+  <nav class="crumbs"><a href="../">Nehrim Collectibles Tracker</a> &rsaquo; Almanacs of Conjuration</nav>
 
-  <section class="about paper">
-    <p>Almanacs of Conjuration each raise Conjuration by 5 levels, at the cost of 5 learning points. Finding the first one starts the side quest The Books of Conjuration.</p>
-    <p>All 22 are listed below, counted out of <code>Nehrim.esm</code> rather than copied from a guide.
-      To see only the ones you have not picked up yet, <a href="../?kind=almanac">drop your save on the tracker</a> &mdash; it works
-      that out from the save and pins what is left on the world map.</p>
+  <section id="drop" class="drop paper" tabindex="0" role="button" aria-label="Choose a Nehrim save file">
+    <input id="file" type="file" accept=".ess" hidden>
+    <div class="drop-inner">
+      <p class="drop-title">Drop a <code>.ess</code> save here, or <span class="browse"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15.5V3.5"/><path d="M7.5 8 12 3.5 16.5 8"/><path d="M4 14.5v4A1.5 1.5 0 0 0 5.5 20h13a1.5 1.5 0 0 0 1.5-1.5v-4"/></svg>browse</span></p>
+      <p class="drop-hint"><code>C:\Program Files (x86)\Steam\steamapps\common\Oblivion\Saves</code> <button type="button" class="copy" data-path="C:\Program Files (x86)\Steam\steamapps\common\Oblivion\Saves">Copy</button></p>
+      <p class="drop-note">Mods that move, add, or remove collectibles will throw the results off.</p>
+    </div>
   </section>
 
-  <section class="paper loc-panel">
-    <table class="loc">
-      <thead><tr><th>ID</th><th>Location</th><th>Where to look</th></tr></thead>
-      <tbody>
-        <tr><td class="rowid">AC01</td><td><b>Citadel Of Shadows - Old Chamber</b><div class="rowwhere">Entrance at Zerobilon · cell Schattenzitadelle05Secret01</div></td><td></td></tr>
-        <tr><td class="rowid">AC02</td><td><b>Treomar, Nexus Halls, Research Chamber</b><div class="rowwhere">Entrance at Treomar, Nexus Tower · cell TreomarNexushallenDieForschungskammer</div></td><td></td></tr>
-        <tr><td class="rowid">AC03</td><td><b>Baldur Booty Cave</b><div class="rowwhere">Entrance at Baldur Booty Cave · cell Baldurhoehle</div></td><td></td></tr>
-        <tr><td class="rowid">AC04</td><td><b>The Subsurface</b><div class="rowwhere">Entrance at The Subsurface · cell TreomarUntergrund</div></td><td></td></tr>
-        <tr><td class="rowid">AC05</td><td><b>Southern Pass Fortress</b><div class="rowwhere">Entrance at Fortress at the collapsed South Pass · cell MQ38Suedpassfestung</div></td><td></td></tr>
-        <tr><td class="rowid">AC06</td><td><b>Giliad, Crypt</b><div class="rowwhere">Entrance 63 m NE of Giliad · cell GiliadGruft</div></td><td></td></tr>
-        <tr><td class="rowid">AC07</td><td><b>Abandoned Camp, Hut</b><div class="rowwhere">Entrance at Abandoned Camp · cell VerlassenesLagerHuette</div></td><td>In the corner on top of a barrel.</td></tr>
-        <tr><td class="rowid">AC08</td><td><b>Citadel Of Shadows - Halls Of The Shadow Gods</b><div class="rowwhere">Entrance at Citadel of Shadows · cell Schattenzitadelle05</div></td><td></td></tr>
-        <tr><td class="rowid">AC09</td><td><b>Citadel Of Shadows</b><div class="rowwhere">Entrance at Citadel of Shadows · cell Schattenzitadelle01</div></td><td></td></tr>
-        <tr><td class="rowid">AC10</td><td><b>Old Crypt - Lower Level</b><div class="rowwhere">Entrance at The Old Farnfeld Cemetery · cell FarnfeldAlteGruftUntereEbene</div></td><td></td></tr>
-        <tr><td class="rowid">AC11</td><td><b>Old Crypt - Lower Level</b><div class="rowwhere">Entrance at The Old Farnfeld Cemetery · cell FarnfeldAlteGruftUntereEbene</div></td><td></td></tr>
-        <tr><td class="rowid">AC12</td><td><b>Citadel Of Shadows - Right Floor</b><div class="rowwhere">Entrance at Citadel of Shadows · cell Schattenzitadelle02</div></td><td></td></tr>
-        <tr><td class="rowid">AC13</td><td><b>Citadel Of Shadows - Halls Of The Writings</b><div class="rowwhere">Entrance at Citadel of Shadows · cell Schattenzitadelle04</div></td><td></td></tr>
-        <tr><td class="rowid">AC14</td><td><b>Iron Fire Halls</b><div class="rowwhere">Entrance at Iron Fire Halls · cell EisenfeuerhallenPart03</div></td><td></td></tr>
-        <tr><td class="rowid">AC15</td><td><b>Darothmar</b><div class="rowwhere">Separate area, not on the world map</div></td><td></td></tr>
-        <tr><td class="rowid">AC16</td><td><b>Small Cave</b><div class="rowwhere">Entrance at Kleine Höhle · cell KleineHoehle</div></td><td>At the end, inside the ruin structure.</td></tr>
-        <tr><td class="rowid">AC17</td><td><b>Seagate, Tower</b><div class="rowwhere">Entrance at Sea Gate · cell MeerestorTurm</div></td><td></td></tr>
-        <tr><td class="rowid">AC18</td><td><b>Pirates' Hideout</b><div class="rowwhere">Entrance at Pirate Cave · cell PiratenUnterschlupf</div></td><td></td></tr>
-        <tr><td class="rowid">AC19</td><td><b>Sanctum Crypt</b><div class="rowwhere">Entrance at Crypt of the Sanctum · cell AUGruft</div></td><td></td></tr>
-        <tr><td class="rowid">AC20</td><td><b>Catacomb Of Lorthing</b><div class="rowwhere">Entrance at Catacombs of Lorthing · cell LorthingKatakombenPart02</div></td><td></td></tr>
-        <tr><td class="rowid">AC21</td><td><b>The Redon Family Crypt</b><div class="rowwhere">Entrance at Redon Family Crypt · cell FamiliengrufRedon</div></td><td></td></tr>
-        <tr><td class="rowid">AC22</td><td><b>Keeper of the Last Barrier</b><div class="rowwhere">At Erothin, Barracks</div></td><td>Carried by this boss during the main quest The Task of Fathoming.</td></tr>
-      </tbody>
-    </table>
+  <section id="about" class="about paper">
+    <h2>Find the Almanacs of Conjuration you are missing</h2>
+<p>Each Almanac of Conjuration raises Conjuration by 5 levels for 5 learning points. Finding your first one starts the side quest The Books of Conjuration, and there are 22 to collect &mdash; 21 sitting in the world and one carried by a boss.</p>
+<p>They sit indoors, in crypts and halls and studies, so the last few come down to remembering which building you have already been through rather than where to start looking.</p>
+
+    <h2>What this page does</h2>
+    <p>Drop your save in above and it works out which of the 22 Almanacs of Conjuration you have already taken.
+      Whatever is left is listed with the location of each one and pinned on the world map, so you can see which
+      corners of Nehrim still owe you something and clear them in one trip instead of one at a time.</p>
+    <p>The save is read in your browser. Nothing is uploaded, and there is nothing to install.</p>
+    <p>If you would rather see everything at once, the <a href="../">full tracker</a> covers all five kinds
+      of collectible together.</p>
+  </section>
+
+  <p id="error" class="error paper" hidden></p>
+
+  <section id="results" hidden>
+    <div class="save-card paper">
+      <canvas id="shot" width="0" height="0"></canvas>
+      <div class="save-meta">
+        <h2 id="pc-name"></h2>
+        <p id="pc-line"></p>
+        <p id="save-line" class="muted"></p>
+      </div>
+      <button type="button" id="reload" class="reload">Load a different save</button>
+    </div>
+    <div id="warnings"></div>
+
+    <div class="tallies" id="tallies"></div>
+
+    <div class="toolbar">
+      <div class="chips" id="kind-chips" role="group" aria-label="Collectible types"></div>
+      <label class="toggle"><input type="checkbox" id="show-found"> Show collected</label>
+    </div>
+
+    <div class="board">
+      <div class="map-panel">
+        <div class="map-tabs" id="map-tabs"></div>
+        <div class="map" id="map">
+          <div class="stage" id="stage"><img id="map-img" alt="World map" draggable="false"></div>
+          <div class="pins" id="pins"></div>
+          <div class="map-ctrl">
+            <button type="button" id="zoom-in" aria-label="Zoom in">+</button>
+            <button type="button" id="zoom-out" aria-label="Zoom out">−</button>
+            <button type="button" id="zoom-reset" aria-label="Reset view">⤢</button>
+          </div>
+          <div class="tip" id="tip" hidden></div>
+        </div>
+      </div>
+      <div class="list-panel paper">
+        <p class="list-count muted" id="list-count"></p>
+        <ol class="list" id="list"></ol>
+      </div>
+    </div>
   </section>
 </main>
 
 <footer class="wrap foot">
-  <p>Nehrim &copy; <a href="https://sureai.net/">SureAI</a>.</p>
+  <p>Nehrim © <a href="https://sureai.net/">SureAI</a>.</p>
   <p>All copyrights to the game and its content, including the map, icons and textures used here, belong to SureAI.</p>
-  <p>Location notes from the <a href="https://nehrim.fandom.com/wiki/Almanac_of_Conjuration">Nehrim Wiki</a> (CC BY-SA).</p>
+  <p>Location notes from the Nehrim Wiki (CC BY-SA):
+    <a href="https://nehrim.fandom.com/wiki/Magic_Symbols">Magic Symbols</a>,
+    <a href="https://nehrim.fandom.com/wiki/Unique_plants">Unique plants</a>,
+    <a href="https://nehrim.fandom.com/wiki/Almanac_of_Conjuration">The Books of Conjuration</a> and
+    <a href="https://nehrim.fandom.com/wiki/Potions">Potions</a>.</p>
 </footer>
 </body>
 </html>

@@ -12,166 +12,133 @@
 
   gtag('config', 'G-N5HLVM77Q7');
 </script>
-<title>All 100 Magic Symbols in Nehrim — location list</title>
-<meta name="description" content="Every one of the 100 Magic Symbols in Nehrim: At Fate’s Edge and where each one is. Load a save on the tracker to see only the ones you are still missing.">
+<title>Nehrim Magic Symbols Tracker — see which of the 100 you are missing</title>
+<meta name="description" content="Drop a Nehrim save on the page and see which of the 100 Magic Symbols you have not collected yet, listed with their locations and pinned on the world map.">
 <link rel="canonical" href="https://stovenly.github.io/nehrim-collectibles/magic-symbols/">
 <meta name="theme-color" content="#1b120a">
 <link rel="icon" href="../favicon.ico" sizes="any">
 <link rel="apple-touch-icon" href="../img/icon-180.png">
-<meta property="og:type" content="article">
+<meta property="og:type" content="website">
 <meta property="og:site_name" content="Nehrim Collectibles Tracker">
-<meta property="og:title" content="All 100 Magic Symbols in Nehrim — location list">
-<meta property="og:description" content="Every one of the 100 Magic Symbols in Nehrim: At Fate’s Edge and where each one is. Load a save on the tracker to see only the ones you are still missing.">
+<meta property="og:title" content="Nehrim Magic Symbols Tracker — see which of the 100 you are missing">
+<meta property="og:description" content="Drop a Nehrim save on the page and see which of the 100 Magic Symbols you have not collected yet, listed with their locations and pinned on the world map.">
 <meta property="og:url" content="https://stovenly.github.io/nehrim-collectibles/magic-symbols/">
 <meta property="og:image" content="https://stovenly.github.io/nehrim-collectibles/img/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="The Nehrim world map behind the title Nehrim Collectibles Tracker and the five collectible icons">
+<meta property="og:locale" content="en_GB">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Nehrim Magic Symbols Tracker — see which of the 100 you are missing">
+<meta name="twitter:description" content="Drop a Nehrim save on the page and see which of the 100 Magic Symbols you have not collected yet, listed with their locations and pinned on the world map.">
 <meta name="twitter:image" content="https://stovenly.github.io/nehrim-collectibles/img/og.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&amp;family=IM+Fell+English+SC&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../css/style.css">
+<script type="module" src="../js/app.js"></script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "All 100 Magic Symbols in Nehrim — location list",
+  "@type": "WebApplication",
+  "name": "Nehrim Magic Symbols Tracker",
   "url": "https://stovenly.github.io/nehrim-collectibles/magic-symbols/",
-  "numberOfItems": 100,
-  "itemListOrder": "https://schema.org/ItemListOrderAscending"
+  "applicationCategory": "GameApplication",
+  "operatingSystem": "Any browser",
+  "browserRequirements": "Requires JavaScript",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+  "description": "Drop a Nehrim save on the page and see which of the 100 Magic Symbols you have not collected yet, listed with their locations and pinned on the world map.",
+  "screenshot": "https://stovenly.github.io/nehrim-collectibles/img/og.jpg",
+  "about": { "@type": "VideoGame", "name": "Nehrim: At Fate's Edge", "publisher": { "@type": "Organization", "name": "SureAI" } }
 }
 </script>
 </head>
-<body>
+<body data-kind="symbol">
 <header class="masthead">
   <div class="wrap">
-    <a href="../?kind=symbol" aria-label="Nehrim Collectibles Tracker"><img class="mark" src="../img/mark.png" width="88" height="88" alt="" draggable="false"></a>
-    <h1>All 100 Magic Symbols in Nehrim</h1>
+    <img class="mark" src="../img/mark.png" width="88" height="88" alt="" draggable="false">
+    <h1>Nehrim Magic Symbols Tracker</h1>
   </div>
 </header>
 
 <main class="wrap">
-  <nav class="crumbs"><a href="../?kind=symbol">Nehrim Collectibles Tracker</a> &rsaquo; Magic Symbols</nav>
+  <nav class="crumbs"><a href="../">Nehrim Collectibles Tracker</a> &rsaquo; Magic Symbols</nav>
 
-  <section class="about paper">
-    <p>Magic Symbols, also spelled magical symbols, are hidden all over Nehrim, most of them waiting at the end of a dungeon or cave. Each one gives experience, and finding every one earns the Magic Nehrim achievement. They glow faintly, so anything catching the light in a dark room is worth a second look.</p>
-    <p>All 100 are listed below, counted out of <code>Nehrim.esm</code> rather than copied from a guide.
-      To see only the ones you have not picked up yet, <a href="../?kind=symbol">drop your save on the tracker</a> &mdash; it works
-      that out from the save and pins what is left on the world map.</p>
+  <section id="drop" class="drop paper" tabindex="0" role="button" aria-label="Choose a Nehrim save file">
+    <input id="file" type="file" accept=".ess" hidden>
+    <div class="drop-inner">
+      <p class="drop-title">Drop a <code>.ess</code> save here, or <span class="browse"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15.5V3.5"/><path d="M7.5 8 12 3.5 16.5 8"/><path d="M4 14.5v4A1.5 1.5 0 0 0 5.5 20h13a1.5 1.5 0 0 0 1.5-1.5v-4"/></svg>browse</span></p>
+      <p class="drop-hint"><code>C:\Program Files (x86)\Steam\steamapps\common\Oblivion\Saves</code> <button type="button" class="copy" data-path="C:\Program Files (x86)\Steam\steamapps\common\Oblivion\Saves">Copy</button></p>
+      <p class="drop-note">Mods that move, add, or remove collectibles will throw the results off.</p>
+    </div>
   </section>
 
-  <section class="paper loc-panel">
-    <table class="loc">
-      <thead><tr><th>ID</th><th>Location</th><th>Where to look</th></tr></thead>
-      <tbody>
-        <tr><td class="rowid">MS001</td><td><b>The Planetarium</b><div class="rowwhere">Entrance at Treomar, Nexus Tower</div></td><td>In The Planetarium.</td></tr>
-        <tr><td class="rowid">MS002</td><td><b>Ruins of Raljien</b><div class="rowwhere">Entrance at Ruins of Raljien · cell RaljienPart02</div></td><td>In the second level, in the room before the boss, sitting on a log.</td></tr>
-        <tr><td class="rowid">MS003</td><td><b>Erothin, Fortress Plaza</b><div class="rowwhere">At Erothin, Fortress Plaza</div></td><td>In a small pond located behind some bushes that are under the stairways.</td></tr>
-        <tr><td class="rowid">MS004</td><td><b>Stormwend City Gate</b><div class="rowwhere">44 m E of Portals in Arktwend · Arktwend</div></td><td>South of the gate, in a little rocky alcove off of the road.</td></tr>
-        <tr><td class="rowid">MS005</td><td><b>Mine at the Collapsed Pass to the Southrealm</b><div class="rowwhere">At Mine At The Collapsed Pass To The Southrealm</div></td><td>On the scaffolding platform directly above the entrance to the mine. Can be reached by climbing the rocks to the right of the entrance.</td></tr>
-        <tr><td class="rowid">MS006</td><td><b>Tomb of the Treasury</b><div class="rowwhere">47 m E of Mine At The Collapsed Pass To The Southrealm</div></td><td>In the small tower guarded by an Acolyte, southwest of the graves (accessible at the end of the side quest Traces).</td></tr>
-        <tr><td class="rowid">MS007</td><td><b>Sacrificial Island</b><div class="rowwhere">280 m S of Creator's Shrine The Fifth Proclamation</div></td><td>On the deck of the beached boat on the east side of the island.</td></tr>
-        <tr><td class="rowid">MS008</td><td><b>Ruined village in Dark forest</b><div class="rowwhere">207 m N of Catacombs of Lorthing</div></td><td>On the first floor of one of the houses.</td></tr>
-        <tr><td class="rowid">MS009</td><td><b>Poisoner Cave</b><div class="rowwhere">At Poisoner Cave</div></td><td>In the ruined house west of the entrance, leaning on a wall.</td></tr>
-        <tr><td class="rowid">MS010</td><td><b>Contaminated Mine</b><div class="rowwhere">At Contaminated Mine</div></td><td>On top of the awning over the large group of barrels near the entrance.</td></tr>
-        <tr><td class="rowid">MS011</td><td><b>Erothin, Waterfront</b><div class="rowwhere">66 m N of Waterfront</div></td><td>Leaning against the rail of a ship propped up on the beach; it can be seen from the end of the pier. The symbol can be reached by climbing the hills behind the buildings next to the boat, climbing onto the roof and jumping across to the boat.</td></tr>
-        <tr><td class="rowid">MS012</td><td><b>Erothin Farmer Village</b><div class="rowwhere">64 m NE of Mana Chapel Mensa</div></td><td>On the grave behind the Guild House of Erothin Farmers.</td></tr>
-        <tr><td class="rowid">MS013</td><td><b>Kobold Camp (Mahrnitz)</b><div class="rowwhere">83 m NE of Mahrnitz</div></td><td>The symbol is just sitting in the middle of the camp. The camp is northeast of Mahrnitz, along the cliff wall.</td></tr>
-        <tr><td class="rowid">MS014</td><td><b>Boat on waterfall (Death Pass)</b><div class="rowwhere">109 m SW of Castle Ledur</div></td><td>On a boat near the waterfall, down the river southwest of Castle Ledur.</td></tr>
-        <tr><td class="rowid">MS015</td><td><b>Ledur</b><div class="rowwhere">35 m NW of Ledur</div></td><td>In the burned out village of Ledur, in one of the building husks. It's on the second floor, which can be reached via a short catwalk made of planks.</td></tr>
-        <tr><td class="rowid">MS016</td><td><b>North Wall - The Nautilus Docks</b><div class="rowwhere">31 m W of North Wall</div></td><td>In an alcove between the wall and a rocky outcropping, on land on the west side of the break at the North Wall. There are spiderwebs partially covering the entrance.</td></tr>
-        <tr><td class="rowid">MS017</td><td><b>Northern Watch</b><div class="rowwhere">79 m W of Northern Watch</div></td><td>West of the bridge up the river, standing on an outcropping of rock.</td></tr>
-        <tr><td class="rowid">MS018</td><td><b>Northern Watch</b><div class="rowwhere">75 m S of Northern Watch</div></td><td>East of the bridge down the river, next to some bandits in an open cave.</td></tr>
-        <tr><td class="rowid">MS019</td><td><b>Closed gates to Treomar</b><div class="rowwhere">258 m SE of Sunken Site</div></td><td>Leaning next to the gate, on the northern side.</td></tr>
-        <tr><td class="rowid">MS020</td><td><b>Bridge of Stera</b><div class="rowwhere">At Bridge of Stera</div></td><td>Under the bridge, near a dead skeleton.</td></tr>
-        <tr><td class="rowid">MS021</td><td><b>Excavation Site</b><div class="rowwhere">At Excavation Site</div></td><td>On a grave in the main area of the site.</td></tr>
-        <tr><td class="rowid">MS022</td><td><b>Refugees' Boat from Arktwend</b><div class="rowwhere">At Refugees' Boat from Arktwend</div></td><td>Next to a chest on the boat.</td></tr>
-        <tr><td class="rowid">MS023</td><td><b>Tower behind Suran Fortress</b><div class="rowwhere">95 m SW of Fortress Suran</div></td><td>Leaning on the door.</td></tr>
-        <tr><td class="rowid">MS024</td><td><b>Mist Tower</b><div class="rowwhere">110 m NE of Refugees' Boat from Arktwend</div></td><td>In a small tunnel south of the entrance.</td></tr>
-        <tr><td class="rowid">MS025</td><td><b>Countess Sapho's Tower</b><div class="rowwhere">Entrance at Countess Sapho's Tower · cell TurmDerGraefinSapho</div></td><td>In an alcove in the wall at the top of one of the tall staircases - it is easier to spot if you are going down. Can be reached by jumping onto the railing.</td></tr>
-        <tr><td class="rowid">MS026</td><td><b>Vault Of Isela</b><div class="rowwhere">Entrance 87 m SE of Hidden Temple · cell IselaPart01</div></td><td>Sitting next to some coffins in the large center room of the ruins. Check the map on the Iselas Ruins page for an exact location.</td></tr>
-        <tr><td class="rowid">MS027</td><td><b>Erod's Watch</b><div class="rowwhere">Entrance at Erod Watch · cell Erodswacht</div></td><td>On the lowest level, next to the Shrine.</td></tr>
-        <tr><td class="rowid">MS028</td><td><b>Flowstone Cave</b><div class="rowwhere">Entrance at Flowstone Cave · cell Tropfsteinhoehle</div></td><td>Near the chest in a side room.</td></tr>
-        <tr><td class="rowid">MS029</td><td><b>Erothin, Money And Greed Bank</b><div class="rowwhere">Entrance 31 m SE of Market Plaza · cell ErothinBank</div></td><td>Found in Bank Locker 1221 during the Traces quest.</td></tr>
-        <tr><td class="rowid">MS030</td><td><b>Storage Annex Of Treomar</b><div class="rowwhere">Entrance at Treomar, Storage Annex · cell TreomarAufbewahrungsstaette</div></td><td>On an altar in the main room.</td></tr>
-        <tr><td class="rowid">MS031</td><td><b>Zardoth Cave</b><div class="rowwhere">Entrance at Zardoth Cave · cell ZardothHhlen02</div></td><td>In the room with the final boss.</td></tr>
-        <tr><td class="rowid">MS032</td><td><b>Crypt Of Dragmore</b><div class="rowwhere">Entrance at Dragmore Ruins · cell DragmorePart01</div></td><td>At the end of the ruin near the portal.</td></tr>
-        <tr><td class="rowid">MS033</td><td><b>Flooded Cave</b><div class="rowwhere">Entrance at Flooded Cave · cell UeberfluteteHoehle</div></td><td>Near a skeleton in the room at the end of the cave.</td></tr>
-        <tr><td class="rowid">MS034</td><td><b>Rullock's Cave</b><div class="rowwhere">Entrance at Rullock's Cave · cell RullocksHoehle</div></td><td>On a table near the final boss.</td></tr>
-        <tr><td class="rowid">MS035</td><td><b>Mana Church Tesa</b><div class="rowwhere">Entrance at The Mana Church · cell ManakircheTesa</div></td><td>On a shelf near the final boss.</td></tr>
-        <tr><td class="rowid">MS036</td><td><b>Apple Horn Yard, Dwelling Tower</b><div class="rowwhere">Entrance at Apple Horn Court · cell ApfelhornHofInt2</div></td><td>Behind a hard lock on the top floor of the Dwelling Tower, next to the bank lockbox key</td></tr>
-        <tr><td class="rowid">MS037</td><td><b>Elements' Forge Beldur</b><div class="rowwhere">Entrance at Elemental Forge of Beldur · cell BeldurPart01</div></td><td>Leaning next to a stone altar in the shortcut room after killing the final boss.</td></tr>
-        <tr><td class="rowid">MS038</td><td><b>Crypt Of Fetheran</b><div class="rowwhere">Entrance at Fetheran Cave · cell FetheranPart02</div></td><td>In a room with the boss Seldramoth. It is easy to miss, as it's leaning on the other side of a coffin.</td></tr>
-        <tr><td class="rowid">MS039</td><td><b>Iron Fire Hall, Lower Halls</b><div class="rowwhere">Entrance at Iron Fire Halls · cell EisenfeuerhallenPart04</div></td><td>In a pot in the Smeltery.</td></tr>
-        <tr><td class="rowid">MS040</td><td><b>Erothin, Hangman's Chamber</b><div class="rowwhere">Entrance at Market Plaza · cell ErothinHenkerkammern</div></td><td>Hangman's Chamber: in one of the back kennels.</td></tr>
-        <tr><td class="rowid">MS041</td><td><b>The Redon Family Crypt</b><div class="rowwhere">Entrance at Redon Family Crypt · cell FamiliengrufRedon</div></td><td>On a wooden coffin.</td></tr>
-        <tr><td class="rowid">MS042</td><td><b>Aureal Halls</b><div class="rowwhere">Entrance at Ruins of Aureal · cell AurealHallenPart02</div></td><td>In the second level, on a stand in the corner of the hidden room (the hidden room can be accessed by swimming through a cave at the bottom of the ravine in the main room).</td></tr>
-        <tr><td class="rowid">MS043</td><td><b>Fort Marris</b><div class="rowwhere">Entrance at Fort Marris · cell FortMarris</div></td><td>Behind the big statue.</td></tr>
-        <tr><td class="rowid">MS044</td><td><b>Southern Stone Circle Temple</b><div class="rowwhere">Entrance at Stone Circle · cell SuedreichSteinkreisHhle</div></td><td>On an altar near the final boss.</td></tr>
-        <tr><td class="rowid">MS045</td><td><b>Erothin, Waterworks</b><div class="rowwhere">Entrance 37 m S of Market Plaza · cell ErothinWasserwerk</div></td><td>On the floor next to some pottery. See the entrance close to Mathilda's Leather and Togs in the marketplace.</td></tr>
-        <tr><td class="rowid">MS046</td><td><b>Hearth Of Astardoth</b><div class="rowwhere">Entrance at Ruins of Astardoth · cell AstardothPart01</div></td><td>In the round tower on the top ledge. Only accessible via the shortcut after the final boss.</td></tr>
-        <tr><td class="rowid">MS047</td><td><b>Mine Of Urdiliar</b><div class="rowwhere">Entrance at Caves of Urdiliar · cell UrdiliarPart01</div></td><td>On a platform in the main room, in plain sight.</td></tr>
-        <tr><td class="rowid">MS048</td><td><b>Old Crypt - Upper Level</b><div class="rowwhere">Entrance at The Old Farnfeld Cemetery · cell FarnfeldAlteGruft</div></td><td>On the first level (the Upper Level) in the northwest-most room of the four open air sealed crypts, in plain sight.</td></tr>
-        <tr><td class="rowid">MS049</td><td><b>Mountain Monastery, Attic</b><div class="rowwhere">Entrance 42 m W of Mountain Monastery · cell BergklosterKlosterDachboden</div></td><td>On a bookcase in the attic in the main building.</td></tr>
-        <tr><td class="rowid">MS050</td><td><b>Erothin, Fortress - Chapel, Side Wing</b><div class="rowwhere">Entrance at Erothin, Fortress Plaza · cell ErothinFesteKapelleSeitenfluegel</div></td><td>Erothin, Fortress - Chapel, Side Wing: on a table.</td></tr>
-        <tr><td class="rowid">MS051</td><td><b>Faltrin Fortress</b><div class="rowwhere">Entrance 49 m S of Faldrin Fortress · cell Faltrinfeste</div></td><td>In one of the rooms at the bottom of the keep, past the water. It is sitting in the rubble in plain sight, and guarded by a demon.</td></tr>
-        <tr><td class="rowid">MS052</td><td><b>Vault Of Telredar, The Hideout</b><div class="rowwhere">Entrance at Vaults of Telredar · cell TelredarPart03</div></td><td>In the final boss room, next to a big chest on top of the ridge.</td></tr>
-        <tr><td class="rowid">MS053</td><td><b>Cellar</b><div class="rowwhere">Entrance at Apple Horn Court · cell ApfelhornhofKeller</div></td><td>Inside the Cellar, on the floor next to the entrance.</td></tr>
-        <tr><td class="rowid">MS054</td><td><b>Castle Stonefield, Tower</b><div class="rowwhere">Entrance 52 m NE of Castle of Stonefield · cell SteinfeldBurgTurm</div></td><td>In the Tower, high up on the wall between two shields. There are some stairs that allow access via jumping down.</td></tr>
-        <tr><td class="rowid">MS055</td><td><b>Cahbaet, Nina's Tools of the Trade</b><div class="rowwhere">Entrance 36 m SE of Cahbaet, Burnt Out City Ring · cell CahbaetNinasDiebesausstattung</div></td><td>Nina's Tools of the Trade: in Nina's bedroom.</td></tr>
-        <tr><td class="rowid">MS056</td><td><b>Old Pit, Shaft</b><div class="rowwhere">Entrance at Old Mine · cell AlteGrubeSchacht</div></td><td>Leaning on a tipped-over chair in the the room with all the furniture.</td></tr>
-        <tr><td class="rowid">MS057</td><td><b>Dragon's Lair, Lower Level</b><div class="rowwhere">Entrance 127 m E of Dragon Cave · cell DrachenhortPart02</div></td><td>In the lower level, in an alcove.</td></tr>
-        <tr><td class="rowid">MS058</td><td><b>Aman Fortress, Cross Hall</b><div class="rowwhere">Entrance 48 m N of Aman Fortress · cell AmanFesteKreuhalle</div></td><td>Within a tipped over barrel in the Cross Hall.</td></tr>
-        <tr><td class="rowid">MS059</td><td><b>Spider Cave</b><div class="rowwhere">Entrance at Giliad · cell Spinnenhoehlen</div></td><td>In the final room of the cave. The room has cocoons in the center and a chest.</td></tr>
-        <tr><td class="rowid">MS060</td><td><b>Old Digging Site</b><div class="rowwhere">Entrance at Old Mining Site · cell AlteSchuerferstelle</div></td><td>On the shelf in the last room.</td></tr>
-        <tr><td class="rowid">MS061</td><td><b>Catacomb Of Lorthing</b><div class="rowwhere">Entrance at Catacombs of Lorthing · cell LorthingKatakombenPart02</div></td><td>Near the statue in the boss room.</td></tr>
-        <tr><td class="rowid">MS062</td><td><b>Erothin, Palace - Throne Hall</b><div class="rowwhere">Entrance at Erothin, Fortress Plaza · cell ErothinThronhalle</div></td><td>Erothin, Palace - Throne Hall: behind a pillar to the left of the throne.</td></tr>
-        <tr><td class="rowid">MS063</td><td><b>Erothin, Harbor - Warehouse</b><div class="rowwhere">Entrance at Waterfront · cell ErothinHafenWarenhaus</div></td><td>Harbor - Warehouse: in a corner behind the crates, next to a corpse.</td></tr>
-        <tr><td class="rowid">MS064</td><td><b>Tournament Ground, Sewers</b><div class="rowwhere">Entrance at Showground Sewers · cell TurnierplatzKanalisation</div></td><td>In plain sight, next to the pressure plate inside the canals.</td></tr>
-        <tr><td class="rowid">MS065</td><td><b>Secret SureAI Facility</b><div class="rowwhere">Entrance 132 m NE of Mahrnitz · cell GeheimeSureAIEinrichtung</div></td><td>In one of the westernmost rooms, standing on a pedestal next to some books.</td></tr>
-        <tr><td class="rowid">MS066</td><td><b>Baldur's Glade, Chapel</b><div class="rowwhere">Entrance at Baldur Heights Chapel · cell BaldursHoeheKapelle</div></td><td>Inside the chapel, in the hand of the statue on the destroyed shrine.</td></tr>
-        <tr><td class="rowid">MS067</td><td><b>Crypt Of Behmal</b><div class="rowwhere">Entrance 48 m NW of Sly Eye's Den · cell BehmalPart02</div></td><td>Behind a latticed door (easy lock) next to a stone coffin.</td></tr>
-        <tr><td class="rowid">MS068</td><td><b>Giliad, secluded Boathouse</b><div class="rowwhere">Entrance 129 m W of Kurtus' Hideout · cell GiliadAblegeneHuette</div></td><td>Sitting on some crates in the house.</td></tr>
-        <tr><td class="rowid">MS069</td><td><b>Abbey Brewery Of Pandorn</b><div class="rowwhere">Entrance 25 m SW of Monastery of Pandorn · cell PadradonPart01</div></td><td>In the pot on the fireplace, in the room with the final boss.</td></tr>
-        <tr><td class="rowid">MS070</td><td><b>The Gods' Forge</b><div class="rowwhere">Entrance at Gods' Forge · cell GoetterSchmiedePart02</div></td><td>Near to the final boss on the second level.</td></tr>
-        <tr><td class="rowid">MS071</td><td><b>Ruins of Aldlefd</b><div class="rowwhere">Entrance at Aldlefd · cell Aldlefd</div></td><td>Inside the ruin, near the dead corpse, in plain sight.</td></tr>
-        <tr><td class="rowid">MS072</td><td><b>Mana Crypt Of Tesa</b><div class="rowwhere">Entrance at Manag Crypt Telsa · cell ManagruftTesa</div></td><td>On the stone altar next to the final boss.</td></tr>
-        <tr><td class="rowid">MS073</td><td><b>Thoian's Hideout</b><div class="rowwhere">Entrance at Thoian's Hideout · cell ThoianPart01</div></td><td>Underwater in the flooded hallway.</td></tr>
-        <tr><td class="rowid">MS074</td><td><b>Library Of Treomar</b><div class="rowwhere">Entrance at Treomar, Temple Plaza · cell TreomarTempel</div></td><td>In the rotunda room, on a stone table with books.</td></tr>
-        <tr><td class="rowid">MS075</td><td><b>Vault Of Tesselation</b><div class="rowwhere">Entrance at Vault of Tesselation · cell TesselationPart01</div></td><td>Leaning on the wall near the treasure pile.</td></tr>
-        <tr><td class="rowid">MS076</td><td><b>Poor People's Last Home</b><div class="rowwhere">Entrance at Poor Peoples' Last Home · cell ArmerLeuteLetzteRuhe01</div></td><td>On the floor next to a cuirass and some magic books.</td></tr>
-        <tr><td class="rowid">MS077</td><td><b>Sunken Site</b><div class="rowwhere">Entrance at Sunken Site · cell VersunkeneStaette</div></td><td>In the corner of the cave room, on stone blocks.</td></tr>
-        <tr><td class="rowid">MS078</td><td><b>Ruins of Aranthos</b><div class="rowwhere">Entrance at Ruins of Aranthos · cell AranthosPart01</div></td><td>In a brazier in the large room in the first level.</td></tr>
-        <tr><td class="rowid">MS079</td><td><b>Shadow Song Mine</b><div class="rowwhere">Entrance 72 m S of Shadow Song Mine Site · cell SchattenrufMinePart04</div></td><td>In a hallway in the fourth area (during the main quest Shadow and Light).</td></tr>
-        <tr><td class="rowid">MS080</td><td><b>Fort Sildren</b><div class="rowwhere">Entrance 93 m SW of Nerukat Caves · cell SildrenFestung01</div></td><td>In one of the main hall rooms on a shelf.</td></tr>
-        <tr><td class="rowid">MS081</td><td><b>Cahbaet, House</b><div class="rowwhere">Entrance at Cahbaet, Burnt Out City Ring · cell CahbaetLangesHaus</div></td><td>House across from Elriko's Goods, on the bookshelf (accessible after starting the main quest The Help of the Fallen)</td></tr>
-        <tr><td class="rowid">MS082</td><td><b>The Mana Forge</b><div class="rowwhere">Entrance at The Dam · cell NordreichStaudammManaschmiede</div></td><td>On a table in the boss room.</td></tr>
-        <tr><td class="rowid">MS083</td><td><b>Duran Mine</b><div class="rowwhere">Entrance at Mine of Duran · cell DuranMine</div></td><td>In a locked tunnel near the end of the mine.</td></tr>
-        <tr><td class="rowid">MS084</td><td><b>The Norfol Mine</b><div class="rowwhere">Entrance at Norfolbruch · cell NorfollbruchPart01</div></td><td>Near the final boss.</td></tr>
-        <tr><td class="rowid">MS085</td><td><b>Mine Of Ystrid</b><div class="rowwhere">Entrance at Mine of Ystrid · cell NehrimMineYstrid</div></td><td>On the upper level of the main cave room.</td></tr>
-        <tr><td class="rowid">MS086</td><td><b>Fort Mandorn</b><div class="rowwhere">Entrance at Fortress of Mandorn · cell FestungMandornPart02</div></td><td>On a bed next to the final boss.</td></tr>
-        <tr><td class="rowid">MS087</td><td><b>Onakat</b><div class="rowwhere">Entrance at Old Fortress of Onakat · cell OnakatPart02</div></td><td>In an alcove in the room with the boss, in the second level.</td></tr>
-        <tr><td class="rowid">MS088</td><td><b>Star Ship, Bridge</b><div class="rowwhere">Entrance at Herabgefallenes Sternenschiff · cell SternenschiffBruecke</div></td><td>Star Ship, Bridge: on one of the tables.</td></tr>
-        <tr><td class="rowid">MS089</td><td><b>Old Border Station, Keep</b><div class="rowwhere">Entrance at Old Border Watch · cell AlteGrenzwacht</div></td><td>Behind the statue in the room with the chest.</td></tr>
-        <tr><td class="rowid">MS090</td><td><b>Inodan, Seraphim Crypt</b><div class="rowwhere">Separate area, not on the world map · cell InodanSeraphimgruft</div></td><td>Seraphim Crypt: in one of the rooms after the exit from the Great Library Hall (accessible during the main quest Hope at the End of the World).</td></tr>
-        <tr><td class="rowid">MS091</td><td><b>Erothin, Big Farmer's House</b><div class="rowwhere">Entrance at Erothin Farmer Village · cell ErothinBauernhaus10</div></td><td>Big Farmer's House, in the attic.</td></tr>
-        <tr><td class="rowid">MS092</td><td><b>Shadow Song Mine</b><div class="rowwhere">Entrance at Shadow Song Mine, Upper Entrance · cell SchattenrufMinePart06</div></td><td>In plain sight in the sixth level (during the main quest Under Siege).</td></tr>
-        <tr><td class="rowid">MS093</td><td><b>Cahbaet, Shabby House</b><div class="rowwhere">Entrance 45 m NE of Fortress Of Cahbaet · cell CahbaetHeruntergekommenesHaus</div></td><td>Shabby House: in the open coffin</td></tr>
-        <tr><td class="rowid">MS094</td><td><b>Castle Of Ledur, Keep</b><div class="rowwhere">Entrance 28 m NE of Castle Ledur · cell BurgvonLedurBurgfried</div></td><td>In the Keep, in the fireplace.</td></tr>
-        <tr><td class="rowid">MS095</td><td><b>Sildren, Mercenary Quarter</b><div class="rowwhere">Entrance at Sildren · cell SildrenHaus03</div></td><td>Sildren, Mercenary Quarter: behind the Average locked door, on a shelf.</td></tr>
-        <tr><td class="rowid">MS096</td><td><b>Aureal Halls</b><div class="rowwhere">Entrance at Ruins of Aureal · cell AurealHallenPart01</div></td><td>On a stone altar in the first level.</td></tr>
-        <tr><td class="rowid">MS097</td><td><b>Erothin, Sewers, Southern Flow Out</b><div class="rowwhere">Entrance 40 m W of Erothin, Backyard · cell ErothinKanalisationSueden</div></td><td>On a barrel next to a room with two ghouls.</td></tr>
-        <tr><td class="rowid">MS098</td><td><b>Stranded Ship</b><div class="rowwhere">Entrance at Stranded ship · cell VerunkenesSchiffPart01</div></td><td>On the first level, next to some barrels.</td></tr>
-        <tr><td class="rowid">MS099</td><td><b>Steel Rail Mine</b><div class="rowwhere">Entrance at Steel Rail Mine · cell StahltrossminePart03</div></td><td>On a hanging platform near the large ramp in the third level (during the side quest The Cry from the Deep).</td></tr>
-        <tr><td class="rowid">MS100</td><td><b>Ruins of Armonar</b><div class="rowwhere">Entrance at Ruins of Armonar · cell ArmonarPart02</div></td><td>Hanging on a spiked grate in plain sight in the second level.</td></tr>
-      </tbody>
-    </table>
+  <section id="about" class="about paper">
+    <h2>Find the Magic Symbols you are missing</h2>
+<p>There are 100 Magic Symbols hidden across Nehrim, most of them waiting at the end of a dungeon or cave. Each one is worth experience, and finding every one earns the Magic Nehrim achievement. They glow faintly in the dark, which helps only if you are already in the right room.</p>
+<p>Your journal keeps a count of how many you have picked up, but never says which ones. Somewhere past the seventieth that count stops being much use: the only way to find the rest is to re-walk dungeons you already cleared and hope you spot what you missed.</p>
+
+    <h2>What this page does</h2>
+    <p>Drop your save in above and it works out which of the 100 Magic Symbols you have already taken.
+      Whatever is left is listed with the location of each one and pinned on the world map, so you can see which
+      corners of Nehrim still owe you something and clear them in one trip instead of one at a time.</p>
+    <p>The save is read in your browser. Nothing is uploaded, and there is nothing to install.</p>
+<p>It also reads the game&rsquo;s own symbol counter and tells you when it disagrees with the save, which usually means a mod or a console command has touched one.</p>
+    <p>If you would rather see everything at once, the <a href="../">full tracker</a> covers all five kinds
+      of collectible together.</p>
+  </section>
+
+  <p id="error" class="error paper" hidden></p>
+
+  <section id="results" hidden>
+    <div class="save-card paper">
+      <canvas id="shot" width="0" height="0"></canvas>
+      <div class="save-meta">
+        <h2 id="pc-name"></h2>
+        <p id="pc-line"></p>
+        <p id="save-line" class="muted"></p>
+      </div>
+      <button type="button" id="reload" class="reload">Load a different save</button>
+    </div>
+    <div id="warnings"></div>
+
+    <div class="tallies" id="tallies"></div>
+
+    <div class="toolbar">
+      <div class="chips" id="kind-chips" role="group" aria-label="Collectible types"></div>
+      <label class="toggle"><input type="checkbox" id="show-found"> Show collected</label>
+    </div>
+
+    <div class="board">
+      <div class="map-panel">
+        <div class="map-tabs" id="map-tabs"></div>
+        <div class="map" id="map">
+          <div class="stage" id="stage"><img id="map-img" alt="World map" draggable="false"></div>
+          <div class="pins" id="pins"></div>
+          <div class="map-ctrl">
+            <button type="button" id="zoom-in" aria-label="Zoom in">+</button>
+            <button type="button" id="zoom-out" aria-label="Zoom out">−</button>
+            <button type="button" id="zoom-reset" aria-label="Reset view">⤢</button>
+          </div>
+          <div class="tip" id="tip" hidden></div>
+        </div>
+      </div>
+      <div class="list-panel paper">
+        <p class="list-count muted" id="list-count"></p>
+        <ol class="list" id="list"></ol>
+      </div>
+    </div>
   </section>
 </main>
 
 <footer class="wrap foot">
-  <p>Nehrim &copy; <a href="https://sureai.net/">SureAI</a>.</p>
+  <p>Nehrim © <a href="https://sureai.net/">SureAI</a>.</p>
   <p>All copyrights to the game and its content, including the map, icons and textures used here, belong to SureAI.</p>
-  <p>Location notes from the <a href="https://nehrim.fandom.com/wiki/Magic_Symbols">Nehrim Wiki</a> (CC BY-SA).</p>
+  <p>Location notes from the Nehrim Wiki (CC BY-SA):
+    <a href="https://nehrim.fandom.com/wiki/Magic_Symbols">Magic Symbols</a>,
+    <a href="https://nehrim.fandom.com/wiki/Unique_plants">Unique plants</a>,
+    <a href="https://nehrim.fandom.com/wiki/Almanac_of_Conjuration">The Books of Conjuration</a> and
+    <a href="https://nehrim.fandom.com/wiki/Potions">Potions</a>.</p>
 </footer>
 </body>
 </html>
