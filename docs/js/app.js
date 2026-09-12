@@ -107,6 +107,7 @@ function show(save, bytes) {
   }
 
   drop.hidden = true;
+  $('about').hidden = true;
   $('results').hidden = false;
   renderTallies();
   renderChips();

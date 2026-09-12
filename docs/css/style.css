@@ -37,7 +37,8 @@ code { font: .8em ui-monospace, "Cascadia Mono", Consolas, monospace; color: var
   filter: drop-shadow(0 6px 10px rgba(0, 0, 0, .55));
 }
 
-.masthead { padding-block: 34px 6px; text-align: center; }
+.masthead { padding-block: 26px 6px; text-align: center; }
+.mark { display: block; width: 88px; height: 88px; margin: 0 auto 2px; filter: drop-shadow(0 3px 6px rgba(0, 0, 0, .7)); }
 h1 {
   font-family: "IM Fell English SC", Georgia, serif;
   font-weight: 400;
@@ -62,6 +63,14 @@ h1::after {
 .drop:hover .drop-inner, .drop:focus-visible .drop-inner, .drop.over .drop-inner { background: rgba(120, 80, 30, .1); border-color: var(--ink-2); }
 .drop-title { font-size: 21px; margin: 0 0 6px; }
 .drop-hint { margin: 2px 0; color: var(--ink-2); font-size: 14px; }
+.drop-note { margin: 12px 0 0; color: var(--ink-2); font-size: 14px; font-style: italic; }
+
+.about { margin-block: 22px; max-width: 920px; margin-inline: auto; }
+.about h2 { font-family: "IM Fell English SC", Georgia, serif; font-weight: 400; font-size: 25px; margin: 22px 0 6px; }
+.about h2:first-child { margin-top: 0; }
+.about p { margin: 0 0 10px; }
+.about-list { margin: 0 0 10px; padding-left: 1.15em; }
+.about-list li { margin-bottom: 3px; }
 .copy { margin-left: 4px; padding: 1px 10px; border: 1px solid var(--ink-2); border-radius: 3px; background: rgba(255, 245, 220, .5); color: var(--ink); font: inherit; font-size: 13px; cursor: pointer; }
 .copy:hover { background: rgba(255, 245, 220, .9); }
 
