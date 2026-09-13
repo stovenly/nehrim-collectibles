@@ -7,7 +7,6 @@ const KINDS = {
   almanac: { name: 'Almanacs of Conjuration', one: 'Almanac of Conjuration' },
   potion: { name: 'Potions of Encumbrance', one: 'Potion of Encumbrance' },
 };
-const KNOWN_PLUGINS = new Set(['nehrim.esm', 'translation.esp', 'magic symbol collection.esp', 'fire sparks collection.esp', 'ice claws collection.esp']);
 
 // app.js sits at <root>/js/, so this resolves assets the same from the landing page and from a collectible page.
 const BASE = new URL('../', import.meta.url);
@@ -100,11 +99,6 @@ function show(save, bytes) {
 
   const warnings = $('warnings');
   warnings.replaceChildren();
-  const extra = save.plugins.filter(p => !KNOWN_PLUGINS.has(p.toLowerCase()));
-  if (extra.length) {
-    warnings.append(el('p', { className: 'warn', textContent:
-      `This save also uses ${extra.length === 1 ? 'a mod' : `${extra.length} mods`}: ${extra.join(', ')}. If any of them move or remove collectibles, some results may be wrong.` }));
-  }
   const counter = save.globals.get(fid(state.data.symbolVar));
   const counted = state.data.items.filter(i => i.kind === 'symbol' && state.found.has(i.id)).length;
   if (counter != null && Math.round(counter) !== counted) {
@@ -221,6 +215,7 @@ function renderMapTabs() {
 }
 
 function setWorld(k) {
+  const changed = state.world !== k;
   state.world = k;
   const w = state.data.worlds[k];
   for (const b of $('map-tabs').children) b.setAttribute('aria-selected', b.dataset.world === k);
@@ -228,7 +223,9 @@ function setWorld(k) {
   img.src = asset(w.image);
   tiles.replaceChildren();
   tileEls.clear();
-  resetView();
+  // Loading another save re-enters here on the same world; the pan and zoom are the user's, so only a new world resets them.
+  if (changed) resetView();
+  else applyView();
 }
 
 function renderPins(items) {
