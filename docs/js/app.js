@@ -73,6 +73,43 @@ async function load(file) {
   }
 }
 
+// ---------- corner menus ----------
+
+for (const box of document.querySelectorAll('.corner')) {
+  const btn = box.querySelector('.corner-btn');
+  const pop = box.querySelector('.corner-pop');
+  const set = open => { pop.hidden = !open; btn.setAttribute('aria-expanded', open); };
+  btn.addEventListener('click', () => set(pop.hidden));
+  box.querySelector('.pop-close')?.addEventListener('click', () => set(false));
+  addEventListener('pointerdown', e => { if (!box.contains(e.target)) set(false); });
+  addEventListener('keydown', e => { if (e.key === 'Escape') set(false); });
+}
+
+const DYSLEXIC_KEY = 'nehrim-dyslexic';
+const dyslexicSwitch = $('dyslexic');
+let dyslexicFont = 'idle';
+let wantDyslexic = false;
+try { wantDyslexic = localStorage.getItem(DYSLEXIC_KEY) === '1'; } catch {}
+
+function applyDyslexic() {
+  dyslexicSwitch.setAttribute('aria-checked', wantDyslexic);
+  document.body.classList.toggle('is-dyslexic', wantDyslexic && dyslexicFont === 'ready');
+  dyslexicSwitch.firstChild.textContent = wantDyslexic && dyslexicFont === 'loading' ? 'Dyslexia-friendly font — fetching…' : 'Dyslexia-friendly font';
+  if (!wantDyslexic || dyslexicFont !== 'idle') return;
+  dyslexicFont = 'loading';
+  new FontFace('OpenDyslexic', `url(${asset('fonts/OpenDyslexic-Regular.otf')})`).load()
+    .then(face => { document.fonts.add(face); dyslexicFont = 'ready'; })
+    .catch(() => { dyslexicFont = 'failed'; })
+    .finally(applyDyslexic);
+}
+
+dyslexicSwitch.addEventListener('click', () => {
+  wantDyslexic = !wantDyslexic;
+  try { localStorage.setItem(DYSLEXIC_KEY, wantDyslexic ? '1' : '0'); } catch {}
+  applyDyslexic();
+});
+applyDyslexic();
+
 // ---------- results ----------
 
 function show(save, bytes) {

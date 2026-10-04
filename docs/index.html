@@ -134,15 +134,26 @@
   </section>
 </main>
 
-<footer class="wrap foot">
-  <p>Nehrim © <a href="https://sureai.net/">SureAI</a>.</p>
-  <p>All copyrights to the game and its content, including the map, icons and textures used here, belong to SureAI.</p>
-  <p>World map tiles from SureAI&rsquo;s <a href="https://map.nehrim.sureai.net/">Nehrim map</a>.</p>
-  <p>Location notes from the Nehrim Wiki (CC BY-SA):
-    <a href="https://nehrim.fandom.com/wiki/Magic_Symbols">Magic Symbols</a>,
-    <a href="https://nehrim.fandom.com/wiki/Unique_plants">Unique plants</a>,
-    <a href="https://nehrim.fandom.com/wiki/Almanac_of_Conjuration">The Books of Conjuration</a> and
-    <a href="https://nehrim.fandom.com/wiki/Potions">Potions</a>.</p>
-</footer>
+<div class="corner corner-l" id="settings">
+  <div class="corner-pop paper" id="settings-pop" hidden>
+    <div class="pop-head">
+      <h2>Settings</h2>
+      <button type="button" class="pop-close" aria-label="Close">×</button>
+    </div>
+    <p class="pop-label">Accessibility</p>
+    <button type="button" class="switch" id="dyslexic" role="switch" aria-checked="false"><span>Dyslexia-friendly font</span><i></i></button>
+  </div>
+  <button type="button" class="corner-btn" aria-label="Settings" aria-expanded="false" aria-controls="settings-pop"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg></button>
+</div>
+
+<div class="corner corner-r" id="info">
+  <div class="corner-pop paper" id="info-pop" hidden>
+    <p class="made"><span>Made by <a href="https://stovenly.com/games/nehrim-collectibles/" target="_blank" rel="noopener">stovenly</a></span><img src="img/heart.png" alt=""></p>
+    <p><a href="https://github.com/stovenly/nehrim-collectibles/blob/main/CREDITS.md" target="_blank" rel="noopener">Credits</a></p>
+    <p><a href="https://github.com/stovenly/nehrim-collectibles" target="_blank" rel="noopener">Source code</a></p>
+    <p><a href="https://github.com/stovenly/nehrim-collectibles/issues/new" target="_blank" rel="noopener">Report an issue</a></p>
+  </div>
+  <button type="button" class="corner-btn" aria-label="About" aria-expanded="false" aria-controls="info-pop"><span aria-hidden="true">?</span></button>
+</div>
 </body>
 </html>
