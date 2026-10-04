@@ -1,0 +1,7287 @@
+[
+ {
+  "kind": "symbol",
+  "ref": 2278181,
+  "edid": "",
+  "flags": 0,
+  "cell": 1713460,
+  "cellEdid": "ArmonarPart02",
+  "cellName": "Ruins of Armonar",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2032.8,
+   846.9,
+   7642.1
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2274196,
+  "edid": "",
+  "flags": 0,
+  "cell": 2032560,
+  "cellEdid": "StahltrossminePart03",
+  "cellName": "Steel Rail Mine",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   8569.8,
+   1265.2,
+   7486.1
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278182,
+  "edid": "",
+  "flags": 0,
+  "cell": 2055280,
+  "cellEdid": "VerunkenesSchiffPart01",
+  "cellName": "Stranded Ship",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1783.4,
+   1629.4,
+   6423.5
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2136389,
+  "edid": "",
+  "flags": 0,
+  "cell": 1832201,
+  "cellEdid": "ErothinKanalisationSueden",
+  "cellName": "Erothin, Sewers, Southern Flow Out",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -86.0,
+   -375.1,
+   465.6
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2136432,
+  "edid": "",
+  "flags": 0,
+  "cell": 1822711,
+  "cellEdid": "AurealHallenPart01",
+  "cellName": "Aureal Halls",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2414.5,
+   3325.5,
+   6746.7
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278183,
+  "edid": "",
+  "flags": 0,
+  "cell": 1720021,
+  "cellEdid": "RaljienPart02",
+  "cellName": "Ruins of Raljien",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1187.6,
+   3571.7,
+   5562.1
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 62501,
+  "edid": "",
+  "flags": 0,
+  "cell": 1820331,
+  "cellEdid": "SildrenHaus03",
+  "cellName": "Sildren, Mercenary Quarter",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1993.2,
+   1734.3,
+   6184.5
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2136440,
+  "edid": "",
+  "flags": 0,
+  "cell": 2016231,
+  "cellEdid": "BurgvonLedurBurgfried",
+  "cellName": "Castle Of Ledur, Keep",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   9154.4,
+   975.5,
+   8123.8
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2256643,
+  "edid": "",
+  "flags": 0,
+  "cell": 2256631,
+  "cellEdid": "CahbaetHeruntergekommenesHaus",
+  "cellName": "Cahbaet, Shabby House",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2022.4,
+   2009.9,
+   6103.9
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278186,
+  "edid": "",
+  "flags": 0,
+  "cell": 60741,
+  "cellEdid": "SchattenrufMinePart06",
+  "cellName": "Shadow Song Mine",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   5847.5,
+   -797.7,
+   7385.0
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2241393,
+  "edid": "",
+  "flags": 0,
+  "cell": 1826551,
+  "cellEdid": "ErothinBauernhaus10",
+  "cellName": "Erothin, Big Farmer's House",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2250.0,
+   3429.4,
+   6145.6
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2194288,
+  "edid": "",
+  "flags": 0,
+  "cell": 2193861,
+  "cellEdid": "InodanSeraphimgruft",
+  "cellName": "Inodan, Seraphim Crypt",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1406.0,
+   4407.1,
+   5887.5
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2136441,
+  "edid": "",
+  "flags": 0,
+  "cell": 2074081,
+  "cellEdid": "AlteGrenzwacht",
+  "cellName": "Old Border Station, Keep",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   3393.0,
+   1381.4,
+   7860.8
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2274207,
+  "edid": "",
+  "flags": 0,
+  "cell": 2208891,
+  "cellEdid": "SternenschiffBruecke",
+  "cellName": "Star Ship, Bridge",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1896.9,
+   1925.3,
+   6921.1
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278188,
+  "edid": "",
+  "flags": 0,
+  "cell": 2265591,
+  "cellEdid": "OnakatPart02",
+  "cellName": "Onakat",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   731.5,
+   983.2,
+   6022.6
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278189,
+  "edid": "",
+  "flags": 0,
+  "cell": 2092822,
+  "cellEdid": "FestungMandornPart02",
+  "cellName": "Fort Mandorn",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2093.8,
+   2959.7,
+   7408.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 93103,
+  "edid": "",
+  "flags": 0,
+  "cell": 72232,
+  "cellEdid": "NehrimMineYstrid",
+  "cellName": "Mine Of Ystrid",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -4825.8,
+   15084.5,
+   21569.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 57979,
+  "edid": "",
+  "flags": 0,
+  "cell": 2120252,
+  "cellEdid": "NorfollbruchPart01",
+  "cellName": "The Norfol Mine",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -2106.6,
+   5387.2,
+   5639.9
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2277202,
+  "edid": "",
+  "flags": 0,
+  "cell": 1819862,
+  "cellEdid": "DuranMine",
+  "cellName": "Duran Mine",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -5120.6,
+   1661.4,
+   6773.1
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2274209,
+  "edid": "",
+  "flags": 0,
+  "cell": 2143062,
+  "cellEdid": "NordreichStaudammManaschmiede",
+  "cellName": "The Mana Forge",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2142.2,
+   -1327.4,
+   3294.1
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 57956,
+  "edid": "",
+  "flags": 0,
+  "cell": 1659472,
+  "cellEdid": "CahbaetLangesHaus",
+  "cellName": "Cahbaet, House",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1783.1,
+   2269.3,
+   8240.4
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2136450,
+  "edid": "",
+  "flags": 0,
+  "cell": 1818572,
+  "cellEdid": "SildrenFestung01",
+  "cellName": "Fort Sildren",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   4066.9,
+   4811.0,
+   8294.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2136453,
+  "edid": "",
+  "flags": 0,
+  "cell": 6182,
+  "cellEdid": "SchattenrufMinePart04",
+  "cellName": "Shadow Song Mine",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   7046.7,
+   803.9,
+   7192.4
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2277205,
+  "edid": "",
+  "flags": 0,
+  "cell": 1692982,
+  "cellEdid": "AranthosPart01",
+  "cellName": "Ruins of Aranthos",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1214.7,
+   -1635.5,
+   6196.3
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2277207,
+  "edid": "",
+  "flags": 0,
+  "cell": 2072582,
+  "cellEdid": "VersunkeneStaette",
+  "cellName": "Sunken Site",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   6662.7,
+   518.7,
+   9698.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2274210,
+  "edid": "",
+  "flags": 0,
+  "cell": 2157592,
+  "cellEdid": "ArmerLeuteLetzteRuhe01",
+  "cellName": "Poor People's Last Home",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -5035.9,
+   1578.9,
+   6737.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2248369,
+  "edid": "",
+  "flags": 0,
+  "cell": 1899003,
+  "cellEdid": "GameplayNewObjects",
+  "cellName": "New Objects",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   3920.0,
+   4582.4,
+   6062.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2248370,
+  "edid": "",
+  "flags": 0,
+  "cell": 1899003,
+  "cellEdid": "GameplayNewObjects",
+  "cellName": "New Objects",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   3843.2,
+   4562.1,
+   6063.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2248371,
+  "edid": "",
+  "flags": 0,
+  "cell": 1899003,
+  "cellEdid": "GameplayNewObjects",
+  "cellName": "New Objects",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   3869.1,
+   4591.7,
+   6063.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2248372,
+  "edid": "",
+  "flags": 0,
+  "cell": 1899003,
+  "cellEdid": "GameplayNewObjects",
+  "cellName": "New Objects",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   3860.6,
+   4571.6,
+   6063.9
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2248377,
+  "edid": "",
+  "flags": 0,
+  "cell": 1899003,
+  "cellEdid": "GameplayNewObjects",
+  "cellName": "New Objects",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   3952.1,
+   4622.8,
+   6065.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2248380,
+  "edid": "",
+  "flags": 0,
+  "cell": 1899003,
+  "cellEdid": "GameplayNewObjects",
+  "cellName": "New Objects",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   3932.9,
+   4601.6,
+   6062.7
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278190,
+  "edid": "",
+  "flags": 0,
+  "cell": 93653,
+  "cellEdid": "TesselationPart01",
+  "cellName": "Vault Of Tesselation",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2642.6,
+   2079.3,
+   6378.0
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2136474,
+  "edid": "",
+  "flags": 0,
+  "cell": 1767053,
+  "cellEdid": "TreomarTempel",
+  "cellName": "Library Of Treomar",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1816.6,
+   2844.2,
+   4224.4
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2267635,
+  "edid": "",
+  "flags": 0,
+  "cell": 1751863,
+  "cellEdid": "ThoianPart01",
+  "cellName": "Thoian's Hideout",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1992.6,
+   -4916.9,
+   -289.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2136475,
+  "edid": "",
+  "flags": 0,
+  "cell": 2050763,
+  "cellEdid": "ManagruftTesa",
+  "cellName": "Mana Crypt Of Tesa",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   3414.5,
+   -487.2,
+   5075.1
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278191,
+  "edid": "",
+  "flags": 0,
+  "cell": 48973,
+  "cellEdid": "Aldlefd",
+  "cellName": "Ruins of Aldlefd",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   4624.5,
+   1373.2,
+   7037.6
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278192,
+  "edid": "",
+  "flags": 0,
+  "cell": 2248783,
+  "cellEdid": "GoetterSchmiedePart02",
+  "cellName": "The Gods' Forge",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -986.4,
+   -2415.6,
+   6348.6
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2274211,
+  "edid": "",
+  "flags": 0,
+  "cell": 2112224,
+  "cellEdid": "PadradonPart01",
+  "cellName": "Abbey Brewery Of Pandorn",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   5093.6,
+   4468.3,
+   8246.6
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2267087,
+  "edid": "",
+  "flags": 0,
+  "cell": 2267024,
+  "cellEdid": "GiliadAblegeneHuette",
+  "cellName": "Giliad, secluded Boathouse",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1959.2,
+   3020.2,
+   6722.5
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278193,
+  "edid": "",
+  "flags": 0,
+  "cell": 1913634,
+  "cellEdid": "BehmalPart02",
+  "cellName": "Crypt Of Behmal",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2151.3,
+   4975.6,
+   6447.7
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2211898,
+  "edid": "",
+  "flags": 0,
+  "cell": 2211854,
+  "cellEdid": "BaldursHoeheKapelle",
+  "cellName": "Baldur's Glade, Chapel",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2051.4,
+   2614.8,
+   5842.4
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 59265,
+  "edid": "",
+  "flags": 0,
+  "cell": 1971164,
+  "cellEdid": "GeheimeSureAIEinrichtung",
+  "cellName": "Secret SureAI Facility",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   6954.4,
+   6622.6,
+   6718.4
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2233887,
+  "edid": "",
+  "flags": 0,
+  "cell": 2028664,
+  "cellEdid": "TurnierplatzKanalisation",
+  "cellName": "Tournament Ground, Sewers",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   4320.0,
+   608.0,
+   5997.1
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2273923,
+  "edid": "",
+  "flags": 0,
+  "cell": 2273864,
+  "cellEdid": "ErothinHafenWarenhaus",
+  "cellName": "Erothin, Harbor - Warehouse",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   10048.2,
+   778.1,
+   8397.1
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2269019,
+  "edid": "",
+  "flags": 0,
+  "cell": 1655274,
+  "cellEdid": "ErothinThronhalle",
+  "cellName": "Erothin, Palace - Throne Hall",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -1112.6,
+   -747.3,
+   7651.9
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278194,
+  "edid": "",
+  "flags": 0,
+  "cell": 2181205,
+  "cellEdid": "LorthingKatakombenPart02",
+  "cellName": "Catacomb Of Lorthing",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2042.5,
+   2346.6,
+   6477.8
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278195,
+  "edid": "",
+  "flags": 0,
+  "cell": 7125,
+  "cellEdid": "AlteSchuerferstelle",
+  "cellName": "Old Digging Site",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -1536.7,
+   6711.6,
+   6463.0
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2158123,
+  "edid": "",
+  "flags": 0,
+  "cell": 1951125,
+  "cellEdid": "Spinnenhoehlen",
+  "cellName": "Spider Cave",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   11003.7,
+   1152.5,
+   9612.6
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2277228,
+  "edid": "",
+  "flags": 0,
+  "cell": 2108565,
+  "cellEdid": "AmanFesteKreuhalle",
+  "cellName": "Aman Fortress, Cross Hall",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1171.4,
+   1917.9,
+   101.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2277231,
+  "edid": "",
+  "flags": 0,
+  "cell": 2247895,
+  "cellEdid": "DrachenhortPart02",
+  "cellName": "Dragon's Lair, Lower Level",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -3327.3,
+   2153.2,
+   6281.8
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278196,
+  "edid": "",
+  "flags": 0,
+  "cell": 1715606,
+  "cellEdid": "AlteGrubeSchacht",
+  "cellName": "Old Pit, Shaft",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1415.9,
+   5683.5,
+   6414.7
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2277234,
+  "edid": "",
+  "flags": 0,
+  "cell": 2111206,
+  "cellEdid": "CahbaetNinasDiebesausstattung",
+  "cellName": "Cahbaet, Nina's Tools of the Trade",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1513.0,
+   -1365.2,
+   7027.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 59935,
+  "edid": "",
+  "flags": 0,
+  "cell": 2103716,
+  "cellEdid": "SteinfeldBurgTurm",
+  "cellName": "Castle Stonefield, Tower",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   7697.2,
+   1101.8,
+   8681.5
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2277236,
+  "edid": "",
+  "flags": 0,
+  "cell": 2156236,
+  "cellEdid": "ApfelhornhofKeller",
+  "cellName": "Cellar",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1195.5,
+   2273.4,
+   -73.1
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2269096,
+  "edid": "",
+  "flags": 0,
+  "cell": 1693056,
+  "cellEdid": "TelredarPart03",
+  "cellName": "Vault Of Telredar, The Hideout",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2743.8,
+   2419.1,
+   7753.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2267124,
+  "edid": "",
+  "flags": 0,
+  "cell": 1749656,
+  "cellEdid": "Faltrinfeste",
+  "cellName": "Faltrin Fortress",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   8616.0,
+   1288.9,
+   8347.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2275778,
+  "edid": "",
+  "flags": 0,
+  "cell": 2173976,
+  "cellEdid": "ErothinFesteKapelleSeitenfluegel",
+  "cellName": "Erothin, Fortress - Chapel, Side Wing",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2072.0,
+   1480.3,
+   8250.9
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2277440,
+  "edid": "",
+  "flags": 0,
+  "cell": 1728186,
+  "cellEdid": "BergklosterKlosterDachboden",
+  "cellName": "Mountain Monastery, Attic",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2903.4,
+   4935.8,
+   6984.3
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278197,
+  "edid": "",
+  "flags": 0,
+  "cell": 2011486,
+  "cellEdid": "FarnfeldAlteGruft",
+  "cellName": "Old Crypt - Upper Level",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -2321.3,
+   492.5,
+   -65.8
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2371516,
+  "edid": "",
+  "flags": 0,
+  "cell": 1654596,
+  "cellEdid": "ErothinInnererPalast",
+  "cellName": "Erothin, Palace",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   3727.3,
+   942.2,
+   8334.4
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2371517,
+  "edid": "",
+  "flags": 0,
+  "cell": 1654596,
+  "cellEdid": "ErothinInnererPalast",
+  "cellName": "Erothin, Palace",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   3853.1,
+   1284.0,
+   8352.7
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2267649,
+  "edid": "",
+  "flags": 0,
+  "cell": 1869037,
+  "cellEdid": "UrdiliarPart01",
+  "cellName": "Mine Of Urdiliar",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -1631.9,
+   5318.1,
+   6645.0
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2267690,
+  "edid": "",
+  "flags": 0,
+  "cell": 1745657,
+  "cellEdid": "AstardothPart01",
+  "cellName": "Hearth Of Astardoth",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   5076.4,
+   3048.7,
+   684.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2267986,
+  "edid": "",
+  "flags": 0,
+  "cell": 1879657,
+  "cellEdid": "ErothinWasserwerk",
+  "cellName": "Erothin, Waterworks",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1394.3,
+   -982.2,
+   6934.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2165217,
+  "edid": "",
+  "flags": 0,
+  "cell": 2164657,
+  "cellEdid": "SuedreichSteinkreisHhle",
+  "cellName": "Southern Stone Circle Temple",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   3418.4,
+   1928.8,
+   5229.3
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278203,
+  "edid": "",
+  "flags": 0,
+  "cell": 2220977,
+  "cellEdid": "FortMarris",
+  "cellName": "Fort Marris",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1754.6,
+   369.5,
+   5961.8
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2269150,
+  "edid": "",
+  "flags": 0,
+  "cell": 1831508,
+  "cellEdid": "AurealHallenPart02",
+  "cellName": "Aureal Halls",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1325.8,
+   -1779.0,
+   500.5
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2273241,
+  "edid": "",
+  "flags": 0,
+  "cell": 2196408,
+  "cellEdid": "FamiliengrufRedon",
+  "cellName": "The Redon Family Crypt",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -37.5,
+   3000.8,
+   6997.1
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2204448,
+  "edid": "",
+  "flags": 0,
+  "cell": 1657818,
+  "cellEdid": "ErothinHenkerkammern",
+  "cellName": "Erothin, Hangman's Chamber",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1054.6,
+   2315.5,
+   6080.6
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2365642,
+  "edid": "",
+  "flags": 0,
+  "cell": 1909538,
+  "cellEdid": "EisenfeuerhallenPart04",
+  "cellName": "Iron Fire Hall, Lower Halls",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -3965.6,
+   6182.0,
+   8858.3
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278215,
+  "edid": "",
+  "flags": 0,
+  "cell": 1730348,
+  "cellEdid": "FetheranPart02",
+  "cellName": "Crypt Of Fetheran",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   5525.8,
+   1040.5,
+   8464.0
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2277995,
+  "edid": "",
+  "flags": 0,
+  "cell": 1954968,
+  "cellEdid": "BeldurPart01",
+  "cellName": "Elements' Forge Beldur",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -8777.0,
+   -356.6,
+   6718.9
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2267169,
+  "edid": "",
+  "flags": 0,
+  "cell": 2146678,
+  "cellEdid": "ApfelhornHofInt2",
+  "cellName": "Apple Horn Yard, Dwelling Tower",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -4751.6,
+   1014.5,
+   8509.7
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278216,
+  "edid": "",
+  "flags": 0,
+  "cell": 2220488,
+  "cellEdid": "ManakircheTesa",
+  "cellName": "Mana Church Tesa",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2205.4,
+   6820.4,
+   6677.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2249741,
+  "edid": "",
+  "flags": 0,
+  "cell": 62998,
+  "cellEdid": "RullocksHoehle",
+  "cellName": "Rullock's Cave",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   5335.7,
+   5613.8,
+   17729.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278217,
+  "edid": "",
+  "flags": 0,
+  "cell": 62998,
+  "cellEdid": "RullocksHoehle",
+  "cellName": "Rullock's Cave",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   6797.1,
+   2750.7,
+   17667.5
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278218,
+  "edid": "",
+  "flags": 0,
+  "cell": 2057798,
+  "cellEdid": "UeberfluteteHoehle",
+  "cellName": "Flooded Cave",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   3627.9,
+   1748.7,
+   7904.6
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278220,
+  "edid": "",
+  "flags": 0,
+  "cell": 2062098,
+  "cellEdid": "DragmorePart01",
+  "cellName": "Crypt Of Dragmore",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   4163.3,
+   2919.7,
+   7370.4
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278223,
+  "edid": "",
+  "flags": 0,
+  "cell": 1773009,
+  "cellEdid": "ZardothHhlen02",
+  "cellName": "Zardoth Cave",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -1305.0,
+   943.2,
+   7565.1
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2136478,
+  "edid": "",
+  "flags": 0,
+  "cell": 2117229,
+  "cellEdid": "TreomarAufbewahrungsstaette",
+  "cellName": "Storage Annex Of Treomar",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2050.0,
+   6254.0,
+   7967.3
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2158984,
+  "edid": "",
+  "flags": 0,
+  "cell": 1983239,
+  "cellEdid": "ErothinBank",
+  "cellName": "Erothin, Money And Greed Bank",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -820.5,
+   1473.6,
+   5838.6
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278224,
+  "edid": "",
+  "flags": 0,
+  "cell": 2117649,
+  "cellEdid": "Tropfsteinhoehle",
+  "cellName": "Flowstone Cave",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   -709.6,
+   7386.1,
+   7695.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278225,
+  "edid": "",
+  "flags": 0,
+  "cell": 2057559,
+  "cellEdid": "Erodswacht",
+  "cellName": "Erod's Watch",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   3218.6,
+   1270.7,
+   6541.6
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278227,
+  "edid": "",
+  "flags": 0,
+  "cell": 1808369,
+  "cellEdid": "IselaPart01",
+  "cellName": "Vault Of Isela",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2836.9,
+   6686.4,
+   6940.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2277449,
+  "edid": "",
+  "flags": 0,
+  "cell": 1953779,
+  "cellEdid": "BurgDarlanGaemcher",
+  "cellName": "Castle Darlan, Chamber",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   1691.2,
+   1741.6,
+   7370.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2136482,
+  "edid": "",
+  "flags": 0,
+  "cell": 2045499,
+  "cellEdid": "TurmDerGraefinSapho",
+  "cellName": "Countess Sapho's Tower",
+  "interior": true,
+  "wrld": null,
+  "wrldEdid": null,
+  "wrldName": null,
+  "grid": null,
+  "pos": [
+   2864.2,
+   3764.6,
+   10218.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 98562,
+  "edid": "",
+  "flags": 0,
+  "cell": 3033,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   2,
+   2
+  ],
+  "pos": [
+   10594.5,
+   10975.5,
+   12741.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250171,
+  "edid": "",
+  "flags": 0,
+  "cell": 6666,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   3,
+   3
+  ],
+  "pos": [
+   15685.4,
+   14083.0,
+   15415.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250172,
+  "edid": "",
+  "flags": 0,
+  "cell": 11283,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   0,
+   7
+  ],
+  "pos": [
+   3234.5,
+   29665.3,
+   10731.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250173,
+  "edid": "",
+  "flags": 0,
+  "cell": 11307,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   1,
+   6
+  ],
+  "pos": [
+   5393.0,
+   25526.5,
+   15696.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250178,
+  "edid": "",
+  "flags": 0,
+  "cell": 11337,
+  "cellEdid": "Einsamehuette",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   2,
+   7
+  ],
+  "pos": [
+   11670.8,
+   28898.4,
+   15397.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250179,
+  "edid": "",
+  "flags": 0,
+  "cell": 11337,
+  "cellEdid": "Einsamehuette",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   2,
+   7
+  ],
+  "pos": [
+   11652.4,
+   28932.8,
+   15386.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250194,
+  "edid": "",
+  "flags": 0,
+  "cell": 19450,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   6,
+   14
+  ],
+  "pos": [
+   27201.9,
+   59796.1,
+   6148.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250211,
+  "edid": "",
+  "flags": 0,
+  "cell": 19451,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   7,
+   14
+  ],
+  "pos": [
+   30727.1,
+   60995.2,
+   5378.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250220,
+  "edid": "",
+  "flags": 0,
+  "cell": 19376,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   6,
+   18
+  ],
+  "pos": [
+   24955.4,
+   77496.2,
+   1996.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250229,
+  "edid": "",
+  "flags": 0,
+  "cell": 11600,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   9,
+   3
+  ],
+  "pos": [
+   39506.4,
+   12496.3,
+   12188.4
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250230,
+  "edid": "",
+  "flags": 0,
+  "cell": 13093,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   10,
+   6
+  ],
+  "pos": [
+   42658.8,
+   27501.1,
+   9769.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2250231,
+  "edid": "",
+  "flags": 0,
+  "cell": 13582,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   12,
+   5
+  ],
+  "pos": [
+   50816.0,
+   21120.0,
+   7280.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250234,
+  "edid": "",
+  "flags": 0,
+  "cell": 57160,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   13,
+   7
+  ],
+  "pos": [
+   56390.9,
+   28410.3,
+   4468.8
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250237,
+  "edid": "",
+  "flags": 0,
+  "cell": 57198,
+  "cellEdid": "NimblesTurm1",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   13,
+   5
+  ],
+  "pos": [
+   56285.4,
+   22450.3,
+   7976.0
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2250238,
+  "edid": "",
+  "flags": 0,
+  "cell": 64143,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   12,
+   3
+  ],
+  "pos": [
+   49664.0,
+   14096.0,
+   3600.0
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2250257,
+  "edid": "",
+  "flags": 0,
+  "cell": 1644343,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   14,
+   3
+  ],
+  "pos": [
+   60757.5,
+   14760.6,
+   2357.4
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250258,
+  "edid": "",
+  "flags": 0,
+  "cell": 1644343,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   14,
+   3
+  ],
+  "pos": [
+   59843.2,
+   16128.5,
+   3378.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250259,
+  "edid": "",
+  "flags": 0,
+  "cell": 13059,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   9,
+   10
+  ],
+  "pos": [
+   37655.5,
+   44691.1,
+   11525.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2302164,
+  "edid": "",
+  "flags": 0,
+  "cell": 19528,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   12,
+   15
+  ],
+  "pos": [
+   51756.7,
+   61567.0,
+   4851.4
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250261,
+  "edid": "",
+  "flags": 0,
+  "cell": 19506,
+  "cellEdid": "AmanFeste01",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   11,
+   17
+  ],
+  "pos": [
+   47660.2,
+   72927.8,
+   4547.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250286,
+  "edid": "",
+  "flags": 0,
+  "cell": 36820,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   11,
+   21
+  ],
+  "pos": [
+   48539.6,
+   86359.6,
+   4134.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250287,
+  "edid": "",
+  "flags": 0,
+  "cell": 36896,
+  "cellEdid": "VerwaisterPicknickplatz",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   9,
+   23
+  ],
+  "pos": [
+   36889.7,
+   96010.5,
+   3156.8
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2250450,
+  "edid": "",
+  "flags": 0,
+  "cell": 1644539,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   16,
+   2
+  ],
+  "pos": [
+   68516.3,
+   10317.5,
+   697.8
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250478,
+  "edid": "",
+  "flags": 0,
+  "cell": 1644914,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   18,
+   2
+  ],
+  "pos": [
+   76234.8,
+   9006.3,
+   631.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250523,
+  "edid": "",
+  "flags": 0,
+  "cell": 1645195,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   16,
+   1
+  ],
+  "pos": [
+   68821.7,
+   7466.3,
+   900.7
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250554,
+  "edid": "",
+  "flags": 0,
+  "cell": 1645472,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   18,
+   0
+  ],
+  "pos": [
+   75144.6,
+   3998.3,
+   1495.7
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250555,
+  "edid": "",
+  "flags": 0,
+  "cell": 1645561,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   19,
+   0
+  ],
+  "pos": [
+   79068.6,
+   388.1,
+   908.1
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2246642,
+  "edid": "",
+  "flags": 0,
+  "cell": 1645561,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   19,
+   0
+  ],
+  "pos": [
+   81630.1,
+   2845.0,
+   -1197.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250572,
+  "edid": "",
+  "flags": 0,
+  "cell": 1645747,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   19,
+   2
+  ],
+  "pos": [
+   80230.2,
+   10253.3,
+   2370.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250584,
+  "edid": "",
+  "flags": 0,
+  "cell": 1645934,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   19,
+   3
+  ],
+  "pos": [
+   78466.9,
+   14638.6,
+   1164.7
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2279824,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646246,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   22,
+   1
+  ],
+  "pos": [
+   92311.5,
+   5590.1,
+   165.9
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2279958,
+  "edid": "",
+  "flags": 0,
+  "cell": 1683472,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   23,
+   3
+  ],
+  "pos": [
+   95672.0,
+   13208.9,
+   1610.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2279255,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646364,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   1,
+   -27
+  ],
+  "pos": [
+   4617.3,
+   -106675.5,
+   3211.7
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2279260,
+  "edid": "",
+  "flags": 0,
+  "cell": 1704761,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   2,
+   -27
+  ],
+  "pos": [
+   10975.5,
+   -109345.4,
+   2875.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2279295,
+  "edid": "",
+  "flags": 0,
+  "cell": 1704793,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   3,
+   -29
+  ],
+  "pos": [
+   15114.8,
+   -115966.0,
+   539.4
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2279296,
+  "edid": "",
+  "flags": 0,
+  "cell": 1704793,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   3,
+   -29
+  ],
+  "pos": [
+   15112.8,
+   -115958.1,
+   536.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2279297,
+  "edid": "",
+  "flags": 0,
+  "cell": 1704793,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   3,
+   -29
+  ],
+  "pos": [
+   15121.8,
+   -115965.3,
+   535.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250737,
+  "edid": "",
+  "flags": 0,
+  "cell": 20961,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   0,
+   -16
+  ],
+  "pos": [
+   1682.5,
+   -62678.2,
+   3512.7
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250738,
+  "edid": "",
+  "flags": 0,
+  "cell": 3007,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   0,
+   -2
+  ],
+  "pos": [
+   2433.9,
+   -6298.7,
+   10472.4
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250739,
+  "edid": "",
+  "flags": 0,
+  "cell": 11389,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   4,
+   -2
+  ],
+  "pos": [
+   16998.1,
+   -7822.7,
+   14434.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250740,
+  "edid": "",
+  "flags": 0,
+  "cell": 18498,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   1,
+   -7
+  ],
+  "pos": [
+   6535.1,
+   -26445.0,
+   8395.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250741,
+  "edid": "",
+  "flags": 0,
+  "cell": 18498,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   1,
+   -7
+  ],
+  "pos": [
+   6167.2,
+   -24797.0,
+   8251.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250742,
+  "edid": "",
+  "flags": 0,
+  "cell": 45333,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   14,
+   -9
+  ],
+  "pos": [
+   58349.7,
+   -35624.0,
+   1620.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2255842,
+  "edid": "",
+  "flags": 0,
+  "cell": 1706081,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   9,
+   -14
+  ],
+  "pos": [
+   39834.5,
+   -55093.4,
+   2129.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250746,
+  "edid": "",
+  "flags": 0,
+  "cell": 1706081,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   9,
+   -14
+  ],
+  "pos": [
+   40118.0,
+   -55445.4,
+   2028.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250747,
+  "edid": "",
+  "flags": 0,
+  "cell": 1706092,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   10,
+   -12
+  ],
+  "pos": [
+   42685.9,
+   -45455.1,
+   6511.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250752,
+  "edid": "",
+  "flags": 0,
+  "cell": 44640,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   15,
+   -4
+  ],
+  "pos": [
+   64076.8,
+   -14043.6,
+   1591.2
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250753,
+  "edid": "",
+  "flags": 0,
+  "cell": 44695,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   14,
+   -7
+  ],
+  "pos": [
+   57648.4,
+   -25367.2,
+   1154.5
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2205640,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646258,
+  "cellEdid": "FluechtlingsBootAusArktwend",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   18,
+   -1
+  ],
+  "pos": [
+   75454.8,
+   -2222.5,
+   36.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250756,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646260,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   19,
+   -1
+  ],
+  "pos": [
+   79667.2,
+   85.4,
+   1119.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250758,
+  "edid": "",
+  "flags": 0,
+  "cell": 1700235,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -41,
+   29
+  ],
+  "pos": [
+   -166119.5,
+   121653.0,
+   1287.4
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250759,
+  "edid": "",
+  "flags": 0,
+  "cell": 1631557,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -34,
+   6
+  ],
+  "pos": [
+   -137773.5,
+   25191.6,
+   16938.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250760,
+  "edid": "",
+  "flags": 0,
+  "cell": 1631565,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -34,
+   4
+  ],
+  "pos": [
+   -138606.6,
+   18565.3,
+   9074.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250797,
+  "edid": "",
+  "flags": 0,
+  "cell": 1631729,
+  "cellEdid": "Ausgrabungsstaette",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -34,
+   11
+  ],
+  "pos": [
+   -138548.2,
+   46917.6,
+   21304.7
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2258861,
+  "edid": "",
+  "flags": 0,
+  "cell": 1631729,
+  "cellEdid": "Ausgrabungsstaette",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -34,
+   11
+  ],
+  "pos": [
+   -137679.8,
+   46785.4,
+   21106.7
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2262090,
+  "edid": "",
+  "flags": 0,
+  "cell": 1631806,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -33,
+   19
+  ],
+  "pos": [
+   -134626.3,
+   79464.6,
+   20015.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250830,
+  "edid": "",
+  "flags": 0,
+  "cell": 1631832,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -34,
+   18
+  ],
+  "pos": [
+   -135698.8,
+   74489.6,
+   22691.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250837,
+  "edid": "",
+  "flags": 0,
+  "cell": 1632174,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -39,
+   28
+  ],
+  "pos": [
+   -159733.8,
+   116288.4,
+   5297.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2306653,
+  "edid": "",
+  "flags": 0,
+  "cell": 1702369,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -40,
+   27
+  ],
+  "pos": [
+   -161523.6,
+   112257.7,
+   8305.7
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250838,
+  "edid": "",
+  "flags": 0,
+  "cell": 1702393,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -38,
+   30
+  ],
+  "pos": [
+   -153448.7,
+   124297.3,
+   906.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250839,
+  "edid": "",
+  "flags": 0,
+  "cell": 1703384,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -40,
+   32
+  ],
+  "pos": [
+   -160186.3,
+   134900.2,
+   72.4
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2333222,
+  "edid": "",
+  "flags": 0,
+  "cell": 1709741,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -42,
+   -23
+  ],
+  "pos": [
+   -171641.6,
+   -92155.4,
+   35.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2333530,
+  "edid": "",
+  "flags": 0,
+  "cell": 1709765,
+  "cellEdid": "GeheimesVergessenesDorfamMeer",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -41,
+   -24
+  ],
+  "pos": [
+   -166720.3,
+   -97106.1,
+   354.6
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2371722,
+  "edid": "",
+  "flags": 0,
+  "cell": 22969,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -42,
+   -11
+  ],
+  "pos": [
+   -170032.8,
+   -44755.6,
+   86.5
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2371769,
+  "edid": "",
+  "flags": 0,
+  "cell": 1632403,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -44,
+   -8
+  ],
+  "pos": [
+   -176580.1,
+   -31829.4,
+   383.4
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2333784,
+  "edid": "",
+  "flags": 0,
+  "cell": 1709908,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -40,
+   -25
+  ],
+  "pos": [
+   -162876.0,
+   -98763.3,
+   2460.9
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2250845,
+  "edid": "",
+  "flags": 0,
+  "cell": 1710012,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -33,
+   -19
+  ],
+  "pos": [
+   -133522.6,
+   -76415.3,
+   3221.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250847,
+  "edid": "",
+  "flags": 0,
+  "cell": 1710066,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -39,
+   -18
+  ],
+  "pos": [
+   -159008.8,
+   -70076.5,
+   1734.1
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2250853,
+  "edid": "",
+  "flags": 0,
+  "cell": 1632421,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -33,
+   -14
+  ],
+  "pos": [
+   -132044.7,
+   -55874.9,
+   1235.5
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2250854,
+  "edid": "",
+  "flags": 0,
+  "cell": 1632848,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -37,
+   -11
+  ],
+  "pos": [
+   -150592.4,
+   -43587.1,
+   405.5
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2250855,
+  "edid": "",
+  "flags": 0,
+  "cell": 1633385,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -39,
+   -12
+  ],
+  "pos": [
+   -155927.4,
+   -48392.5,
+   547.8
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2250856,
+  "edid": "",
+  "flags": 0,
+  "cell": 1633649,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -40,
+   -10
+  ],
+  "pos": [
+   -163327.5,
+   -37565.2,
+   510.9
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2250857,
+  "edid": "",
+  "flags": 0,
+  "cell": 1633720,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -33,
+   -1
+  ],
+  "pos": [
+   -131683.8,
+   -652.5,
+   6148.4
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250859,
+  "edid": "",
+  "flags": 0,
+  "cell": 1633731,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -33,
+   -6
+  ],
+  "pos": [
+   -132626.9,
+   -21457.9,
+   2849.2
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2250870,
+  "edid": "",
+  "flags": 0,
+  "cell": 1633731,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -33,
+   -6
+  ],
+  "pos": [
+   -132258.5,
+   -23226.2,
+   1934.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2250874,
+  "edid": "",
+  "flags": 0,
+  "cell": 1634056,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -36,
+   -2
+  ],
+  "pos": [
+   -143594.4,
+   -6164.8,
+   1058.2
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250879,
+  "edid": "",
+  "flags": 0,
+  "cell": 24683,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -26,
+   5
+  ],
+  "pos": [
+   -103931.7,
+   20795.4,
+   14563.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250881,
+  "edid": "",
+  "flags": 0,
+  "cell": 1634503,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -32,
+   5
+  ],
+  "pos": [
+   -131057.1,
+   23774.2,
+   15508.2
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250884,
+  "edid": "",
+  "flags": 0,
+  "cell": 1634517,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -28,
+   4
+  ],
+  "pos": [
+   -113098.4,
+   19716.1,
+   12380.6
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2250885,
+  "edid": "",
+  "flags": 0,
+  "cell": 1634533,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -28,
+   3
+  ],
+  "pos": [
+   -113428.2,
+   13666.1,
+   6655.4
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2250887,
+  "edid": "",
+  "flags": 0,
+  "cell": 1634537,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -27,
+   3
+  ],
+  "pos": [
+   -106532.6,
+   13410.4,
+   5602.6
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2266721,
+  "edid": "",
+  "flags": 0,
+  "cell": 1634553,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -31,
+   1
+  ],
+  "pos": [
+   -126397.9,
+   6153.4,
+   10089.2
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2362752,
+  "edid": "",
+  "flags": 0,
+  "cell": 1634553,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -31,
+   1
+  ],
+  "pos": [
+   -124942.5,
+   7309.8,
+   10055.4
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250903,
+  "edid": "",
+  "flags": 0,
+  "cell": 24691,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -26,
+   9
+  ],
+  "pos": [
+   -103136.0,
+   39900.9,
+   10997.7
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250904,
+  "edid": "",
+  "flags": 0,
+  "cell": 1635241,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -27,
+   12
+  ],
+  "pos": [
+   -109573.2,
+   52491.7,
+   11239.8
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250908,
+  "edid": "",
+  "flags": 0,
+  "cell": 1635426,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -29,
+   13
+  ],
+  "pos": [
+   -115778.4,
+   53886.5,
+   14716.4
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 105012,
+  "edid": "",
+  "flags": 0,
+  "cell": 1635426,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -29,
+   13
+  ],
+  "pos": [
+   -115526.6,
+   54226.9,
+   14694.3
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2277320,
+  "edid": "",
+  "flags": 0,
+  "cell": 1635470,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -31,
+   12
+  ],
+  "pos": [
+   -123797.3,
+   49453.0,
+   17132.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2277333,
+  "edid": "",
+  "flags": 0,
+  "cell": 1635470,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -31,
+   12
+  ],
+  "pos": [
+   -123730.3,
+   49500.9,
+   16936.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250909,
+  "edid": "",
+  "flags": 0,
+  "cell": 1635533,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -27,
+   8
+  ],
+  "pos": [
+   -108213.8,
+   35367.9,
+   13512.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250910,
+  "edid": "",
+  "flags": 0,
+  "cell": 1635685,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -25,
+   17
+  ],
+  "pos": [
+   -99110.0,
+   72960.0,
+   11249.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 67972,
+  "edid": "",
+  "flags": 0,
+  "cell": 1635875,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -25,
+   19
+  ],
+  "pos": [
+   -98835.9,
+   81348.7,
+   9823.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250929,
+  "edid": "",
+  "flags": 0,
+  "cell": 1638376,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -32,
+   16
+  ],
+  "pos": [
+   -129664.5,
+   69247.3,
+   20816.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250946,
+  "edid": "",
+  "flags": 0,
+  "cell": 1638465,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -31,
+   20
+  ],
+  "pos": [
+   -123475.3,
+   84196.8,
+   11955.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250947,
+  "edid": "",
+  "flags": 0,
+  "cell": 1638884,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -28,
+   26
+  ],
+  "pos": [
+   -110968.6,
+   107513.8,
+   13394.4
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2250948,
+  "edid": "",
+  "flags": 0,
+  "cell": 1638943,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -31,
+   24
+  ],
+  "pos": [
+   -124870.3,
+   99985.5,
+   18797.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251015,
+  "edid": "",
+  "flags": 0,
+  "cell": 1639035,
+  "cellEdid": "AusgangDrachenhort",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -30,
+   29
+  ],
+  "pos": [
+   -120221.8,
+   119086.5,
+   22708.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251016,
+  "edid": "",
+  "flags": 0,
+  "cell": 1639035,
+  "cellEdid": "AusgangDrachenhort",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -30,
+   29
+  ],
+  "pos": [
+   -120167.5,
+   119143.7,
+   22684.8
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2206669,
+  "edid": "",
+  "flags": 0,
+  "cell": 1639057,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -25,
+   31
+  ],
+  "pos": [
+   -99810.0,
+   130567.5,
+   37.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251032,
+  "edid": "",
+  "flags": 0,
+  "cell": 24311,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -17,
+   0
+  ],
+  "pos": [
+   -69033.5,
+   765.1,
+   9667.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251033,
+  "edid": "",
+  "flags": 0,
+  "cell": 24331,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -18,
+   3
+  ],
+  "pos": [
+   -72585.3,
+   11937.7,
+   12385.8
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251034,
+  "edid": "",
+  "flags": 0,
+  "cell": 24343,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -19,
+   2
+  ],
+  "pos": [
+   -74542.3,
+   8201.6,
+   15011.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2289465,
+  "edid": "",
+  "flags": 0,
+  "cell": 24431,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -23,
+   7
+  ],
+  "pos": [
+   -91983.4,
+   30410.3,
+   16323.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251035,
+  "edid": "",
+  "flags": 0,
+  "cell": 24437,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -20,
+   7
+  ],
+  "pos": [
+   -78925.6,
+   29450.8,
+   10691.6
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251036,
+  "edid": "",
+  "flags": 0,
+  "cell": 24545,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -24,
+   0
+  ],
+  "pos": [
+   -94266.0,
+   4031.3,
+   8133.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251043,
+  "edid": "",
+  "flags": 0,
+  "cell": 24547,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -24,
+   1
+  ],
+  "pos": [
+   -95676.0,
+   8379.5,
+   8494.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251064,
+  "edid": "",
+  "flags": 0,
+  "cell": 24493,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -22,
+   10
+  ],
+  "pos": [
+   -89768.8,
+   43537.4,
+   8107.0
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2206688,
+  "edid": "",
+  "flags": 0,
+  "cell": 24503,
+  "cellEdid": "Ledur",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -17,
+   10
+  ],
+  "pos": [
+   -66514.8,
+   43654.4,
+   8466.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2289466,
+  "edid": "",
+  "flags": 0,
+  "cell": 24513,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -22,
+   11
+  ],
+  "pos": [
+   -89043.2,
+   49103.4,
+   7048.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2297761,
+  "edid": "",
+  "flags": 0,
+  "cell": 24521,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -18,
+   11
+  ],
+  "pos": [
+   -71691.3,
+   47040.5,
+   9853.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2297762,
+  "edid": "",
+  "flags": 0,
+  "cell": 24521,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -18,
+   11
+  ],
+  "pos": [
+   -71694.2,
+   46937.3,
+   9862.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251067,
+  "edid": "",
+  "flags": 0,
+  "cell": 24563,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -24,
+   9
+  ],
+  "pos": [
+   -94746.6,
+   39204.9,
+   10751.7
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251072,
+  "edid": "",
+  "flags": 0,
+  "cell": 24573,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -22,
+   12
+  ],
+  "pos": [
+   -87644.6,
+   51007.4,
+   7102.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251074,
+  "edid": "",
+  "flags": 0,
+  "cell": 24581,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -18,
+   12
+  ],
+  "pos": [
+   -71383.8,
+   51866.9,
+   6602.8
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2213966,
+  "edid": "",
+  "flags": 0,
+  "cell": 24645,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -18,
+   13
+  ],
+  "pos": [
+   -72208.6,
+   53295.4,
+   6534.4
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251075,
+  "edid": "",
+  "flags": 0,
+  "cell": 1628762,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -18,
+   19
+  ],
+  "pos": [
+   -70970.1,
+   81436.7,
+   9804.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251076,
+  "edid": "",
+  "flags": 0,
+  "cell": 1628776,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -17,
+   22
+  ],
+  "pos": [
+   -67435.0,
+   92806.8,
+   6056.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251077,
+  "edid": "",
+  "flags": 0,
+  "cell": 1628776,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -17,
+   22
+  ],
+  "pos": [
+   -67147.1,
+   92928.8,
+   6120.4
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251078,
+  "edid": "",
+  "flags": 0,
+  "cell": 1628776,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -17,
+   22
+  ],
+  "pos": [
+   -67109.9,
+   92879.7,
+   6120.2
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2255880,
+  "edid": "",
+  "flags": 0,
+  "cell": 1628780,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -19,
+   18
+  ],
+  "pos": [
+   -77193.8,
+   77256.7,
+   11637.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2306415,
+  "edid": "",
+  "flags": 0,
+  "cell": 1641310,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -21,
+   20
+  ],
+  "pos": [
+   -82895.1,
+   83239.0,
+   13891.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2306416,
+  "edid": "",
+  "flags": 0,
+  "cell": 1641310,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -21,
+   20
+  ],
+  "pos": [
+   -82819.3,
+   83131.1,
+   13861.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251079,
+  "edid": "",
+  "flags": 0,
+  "cell": 1641323,
+  "cellEdid": "Mahrnitz2",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -21,
+   23
+  ],
+  "pos": [
+   -84075.8,
+   97151.0,
+   8151.7
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251080,
+  "edid": "",
+  "flags": 0,
+  "cell": 1641425,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -20,
+   17
+  ],
+  "pos": [
+   -81768.8,
+   72004.5,
+   9051.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251081,
+  "edid": "",
+  "flags": 0,
+  "cell": 1641529,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -20,
+   19
+  ],
+  "pos": [
+   -81287.2,
+   79862.1,
+   11662.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251082,
+  "edid": "",
+  "flags": 0,
+  "cell": 1641994,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -23,
+   23
+  ],
+  "pos": [
+   -90473.4,
+   95375.4,
+   8295.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251083,
+  "edid": "",
+  "flags": 0,
+  "cell": 1642011,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -24,
+   17
+  ],
+  "pos": [
+   -97080.6,
+   69900.3,
+   9093.3
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 67911,
+  "edid": "",
+  "flags": 0,
+  "cell": 1642160,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -24,
+   20
+  ],
+  "pos": [
+   -96609.4,
+   83392.1,
+   10917.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251098,
+  "edid": "",
+  "flags": 0,
+  "cell": 1628807,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -17,
+   25
+  ],
+  "pos": [
+   -67280.0,
+   105176.8,
+   5491.3
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2265758,
+  "edid": "",
+  "flags": 0,
+  "cell": 1642383,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -21,
+   24
+  ],
+  "pos": [
+   -84062.8,
+   100315.9,
+   2455.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251099,
+  "edid": "",
+  "flags": 0,
+  "cell": 1642622,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -22,
+   28
+  ],
+  "pos": [
+   -88520.6,
+   118686.5,
+   61.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2267314,
+  "edid": "",
+  "flags": 0,
+  "cell": 16586,
+  "cellEdid": "GiliadBootshaus",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -9,
+   7
+  ],
+  "pos": [
+   -35740.5,
+   31605.1,
+   332.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251100,
+  "edid": "",
+  "flags": 0,
+  "cell": 16897,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -13,
+   2
+  ],
+  "pos": [
+   -50297.2,
+   10100.3,
+   3136.8
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251101,
+  "edid": "",
+  "flags": 0,
+  "cell": 16899,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -13,
+   4
+  ],
+  "pos": [
+   -50621.9,
+   18967.0,
+   1713.3
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251102,
+  "edid": "",
+  "flags": 0,
+  "cell": 16939,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -11,
+   2
+  ],
+  "pos": [
+   -41717.3,
+   10212.4,
+   1258.3
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251103,
+  "edid": "",
+  "flags": 0,
+  "cell": 24299,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -16,
+   2
+  ],
+  "pos": [
+   -63383.6,
+   9104.3,
+   8437.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251104,
+  "edid": "",
+  "flags": 0,
+  "cell": 24299,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -16,
+   2
+  ],
+  "pos": [
+   -61975.3,
+   10818.7,
+   7958.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251105,
+  "edid": "",
+  "flags": 0,
+  "cell": 24303,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -16,
+   4
+  ],
+  "pos": [
+   -61840.8,
+   19713.7,
+   5981.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2371382,
+  "edid": "",
+  "flags": 0,
+  "cell": 16590,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -9,
+   9
+  ],
+  "pos": [
+   -35715.7,
+   37200.9,
+   687.0
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2255421,
+  "edid": "",
+  "flags": 0,
+  "cell": 24589,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -14,
+   12
+  ],
+  "pos": [
+   -53344.6,
+   51579.2,
+   6021.8
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2278058,
+  "edid": "",
+  "flags": 0,
+  "cell": 24655,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -13,
+   13
+  ],
+  "pos": [
+   -50925.6,
+   55952.9,
+   5786.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2371396,
+  "edid": "",
+  "flags": 0,
+  "cell": 1628918,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -10,
+   18
+  ],
+  "pos": [
+   -39404.9,
+   76771.5,
+   585.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251108,
+  "edid": "",
+  "flags": 0,
+  "cell": 1628922,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -16,
+   19
+  ],
+  "pos": [
+   -61839.6,
+   78772.5,
+   6198.1
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2234956,
+  "edid": "",
+  "flags": 0,
+  "cell": 1628926,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -14,
+   19
+  ],
+  "pos": [
+   -56037.6,
+   80016.1,
+   1523.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251110,
+  "edid": "",
+  "flags": 0,
+  "cell": 3001,
+  "cellEdid": "Zone01",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -1,
+   0
+  ],
+  "pos": [
+   -289.8,
+   2497.8,
+   9013.8
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251111,
+  "edid": "",
+  "flags": 0,
+  "cell": 4369,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -4,
+   0
+  ],
+  "pos": [
+   -13628.2,
+   3546.1,
+   6011.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251118,
+  "edid": "",
+  "flags": 0,
+  "cell": 4371,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -4,
+   2
+  ],
+  "pos": [
+   -13403.3,
+   12137.9,
+   5418.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251119,
+  "edid": "",
+  "flags": 0,
+  "cell": 9424,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -8,
+   3
+  ],
+  "pos": [
+   -31571.4,
+   15647.4,
+   1015.6
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 109821,
+  "edid": "",
+  "flags": 0,
+  "cell": 11257,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -1,
+   6
+  ],
+  "pos": [
+   -3207.6,
+   27607.6,
+   8340.7
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251120,
+  "edid": "",
+  "flags": 0,
+  "cell": 11259,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -1,
+   7
+  ],
+  "pos": [
+   -413.2,
+   32726.8,
+   3931.7
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2369950,
+  "edid": "",
+  "flags": 0,
+  "cell": 11259,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -1,
+   7
+  ],
+  "pos": [
+   -3993.5,
+   29629.8,
+   7277.4
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2267777,
+  "edid": "",
+  "flags": 0,
+  "cell": 12807,
+  "cellEdid": "Weide",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -4,
+   6
+  ],
+  "pos": [
+   -14454.7,
+   27300.2,
+   2880.7
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2371397,
+  "edid": "",
+  "flags": 0,
+  "cell": 16960,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -8,
+   11
+  ],
+  "pos": [
+   -31741.4,
+   46563.5,
+   1848.0
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2246841,
+  "edid": "",
+  "flags": 0,
+  "cell": 1630256,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -7,
+   25
+  ],
+  "pos": [
+   -26918.2,
+   104891.3,
+   667.4
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2259001,
+  "edid": "",
+  "flags": 0,
+  "cell": 1710138,
+  "cellEdid": "Meertor2",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -29,
+   -33
+  ],
+  "pos": [
+   -117160.3,
+   -134198.5,
+   3626.8
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251127,
+  "edid": "",
+  "flags": 0,
+  "cell": 1710350,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -30,
+   -19
+  ],
+  "pos": [
+   -122042.8,
+   -77579.7,
+   2633.2
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251128,
+  "edid": "",
+  "flags": 0,
+  "cell": 1710366,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -31,
+   -24
+  ],
+  "pos": [
+   -123140.4,
+   -97606.1,
+   3969.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251129,
+  "edid": "",
+  "flags": 0,
+  "cell": 1642987,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -29,
+   -9
+  ],
+  "pos": [
+   -115390.7,
+   -34793.9,
+   4558.3
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2251130,
+  "edid": "",
+  "flags": 0,
+  "cell": 1643001,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -27,
+   -10
+  ],
+  "pos": [
+   -106711.1,
+   -38543.1,
+   3614.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251136,
+  "edid": "",
+  "flags": 0,
+  "cell": 1643003,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -26,
+   -10
+  ],
+  "pos": [
+   -104538.8,
+   -40606.6,
+   4141.8
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251147,
+  "edid": "",
+  "flags": 0,
+  "cell": 1643005,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -26,
+   -9
+  ],
+  "pos": [
+   -103217.8,
+   -36664.6,
+   4569.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251180,
+  "edid": "",
+  "flags": 0,
+  "cell": 1643119,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -26,
+   -1
+  ],
+  "pos": [
+   -104295.3,
+   -595.6,
+   8147.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251181,
+  "edid": "",
+  "flags": 0,
+  "cell": 1643119,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -26,
+   -1
+  ],
+  "pos": [
+   -104201.6,
+   -496.7,
+   8174.1
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251184,
+  "edid": "",
+  "flags": 0,
+  "cell": 1643195,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -31,
+   -8
+  ],
+  "pos": [
+   -123557.5,
+   -30860.3,
+   3092.1
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251188,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646537,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -18,
+   -27
+  ],
+  "pos": [
+   -72948.1,
+   -110251.9,
+   158.6
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251193,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646551,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -21,
+   -25
+  ],
+  "pos": [
+   -83009.4,
+   -100911.5,
+   387.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251194,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646561,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -18,
+   -30
+  ],
+  "pos": [
+   -71734.2,
+   -121873.9,
+   97.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2330105,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646574,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -20,
+   -26
+  ],
+  "pos": [
+   -80824.6,
+   -105738.9,
+   161.1
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251195,
+  "edid": "",
+  "flags": 0,
+  "cell": 1710380,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -24,
+   -27
+  ],
+  "pos": [
+   -95475.5,
+   -107641.1,
+   2545.8
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251196,
+  "edid": "",
+  "flags": 0,
+  "cell": 1710384,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -23,
+   -28
+  ],
+  "pos": [
+   -94078.0,
+   -112709.3,
+   1237.8
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251197,
+  "edid": "",
+  "flags": 0,
+  "cell": 1710418,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -20,
+   -30
+  ],
+  "pos": [
+   -80922.2,
+   -119890.3,
+   648.1
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2330174,
+  "edid": "",
+  "flags": 0,
+  "cell": 22770,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -21,
+   -18
+  ],
+  "pos": [
+   -83226.2,
+   -70245.0,
+   3763.8
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251198,
+  "edid": "",
+  "flags": 0,
+  "cell": 22911,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -18,
+   -19
+  ],
+  "pos": [
+   -72504.4,
+   -75763.1,
+   226.0
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251224,
+  "edid": "",
+  "flags": 0,
+  "cell": 1643209,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -24,
+   -19
+  ],
+  "pos": [
+   -97257.9,
+   -76096.0,
+   2316.2
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251225,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646622,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -17,
+   -20
+  ],
+  "pos": [
+   -68473.5,
+   -78341.2,
+   4932.0
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251226,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646640,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -19,
+   -22
+  ],
+  "pos": [
+   -74796.7,
+   -87659.8,
+   734.3
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251227,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646658,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -20,
+   -24
+  ],
+  "pos": [
+   -80123.3,
+   -94337.9,
+   1121.0
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251228,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646674,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -22,
+   -21
+  ],
+  "pos": [
+   -87320.3,
+   -83448.8,
+   1121.0
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251229,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646688,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -23,
+   -22
+  ],
+  "pos": [
+   -91396.5,
+   -87984.8,
+   1842.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2332566,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646688,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -23,
+   -22
+  ],
+  "pos": [
+   -90128.2,
+   -86268.4,
+   1370.3
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2251235,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646692,
+  "cellEdid": "GiftmischerCell",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -23,
+   -20
+  ],
+  "pos": [
+   -91174.3,
+   -80859.4,
+   1203.4
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251241,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646702,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -24,
+   -22
+  ],
+  "pos": [
+   -96540.8,
+   -88760.2,
+   1365.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251242,
+  "edid": "",
+  "flags": 0,
+  "cell": 22533,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -18,
+   -9
+  ],
+  "pos": [
+   -70134.4,
+   -36558.5,
+   7580.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251243,
+  "edid": "",
+  "flags": 0,
+  "cell": 22553,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -17,
+   -10
+  ],
+  "pos": [
+   -67832.4,
+   -37528.8,
+   6095.8
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251244,
+  "edid": "",
+  "flags": 0,
+  "cell": 22773,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -21,
+   -15
+  ],
+  "pos": [
+   -84790.2,
+   -58197.2,
+   7926.8
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251282,
+  "edid": "",
+  "flags": 0,
+  "cell": 22519,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -19,
+   -2
+  ],
+  "pos": [
+   -76848.0,
+   -7502.0,
+   15023.2
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251284,
+  "edid": "",
+  "flags": 0,
+  "cell": 22535,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -18,
+   -7
+  ],
+  "pos": [
+   -70706.2,
+   -28055.1,
+   9974.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251289,
+  "edid": "",
+  "flags": 0,
+  "cell": 22557,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -17,
+   -6
+  ],
+  "pos": [
+   -68776.2,
+   -21099.2,
+   9955.2
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2266727,
+  "edid": "",
+  "flags": 0,
+  "cell": 24535,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -24,
+   -5
+  ],
+  "pos": [
+   -96002.4,
+   -19154.6,
+   2983.1
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251300,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646792,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -16,
+   -26
+  ],
+  "pos": [
+   -61879.5,
+   -103912.1,
+   582.2
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251301,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646794,
+  "cellEdid": "MineYstryd",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -16,
+   -25
+  ],
+  "pos": [
+   -64985.8,
+   -99188.7,
+   542.9
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251302,
+  "edid": "",
+  "flags": 0,
+  "cell": 1646889,
+  "cellEdid": "OstianFestung",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -13,
+   -28
+  ],
+  "pos": [
+   -49792.9,
+   -114169.6,
+   942.9
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251342,
+  "edid": "",
+  "flags": 0,
+  "cell": 20865,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -11,
+   -17
+  ],
+  "pos": [
+   -44960.3,
+   -66933.9,
+   12596.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251343,
+  "edid": "",
+  "flags": 0,
+  "cell": 22983,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -12,
+   -20
+  ],
+  "pos": [
+   -45438.0,
+   -78715.9,
+   7133.0
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251344,
+  "edid": "",
+  "flags": 0,
+  "cell": 1649158,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -14,
+   -22
+  ],
+  "pos": [
+   -56829.5,
+   -87061.4,
+   4839.4
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251353,
+  "edid": "",
+  "flags": 0,
+  "cell": 17829,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -12,
+   -10
+  ],
+  "pos": [
+   -47847.1,
+   -38227.1,
+   175.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251354,
+  "edid": "",
+  "flags": 0,
+  "cell": 17830,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -11,
+   -12
+  ],
+  "pos": [
+   -42754.7,
+   -48516.2,
+   4312.8
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251356,
+  "edid": "",
+  "flags": 0,
+  "cell": 20851,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -13,
+   -14
+  ],
+  "pos": [
+   -49253.4,
+   -56261.2,
+   9604.9
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2362060,
+  "edid": "",
+  "flags": 0,
+  "cell": 20852,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -13,
+   -13
+  ],
+  "pos": [
+   -50700.8,
+   -49336.6,
+   5316.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2362061,
+  "edid": "",
+  "flags": 0,
+  "cell": 20852,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -13,
+   -13
+  ],
+  "pos": [
+   -50573.4,
+   -49382.2,
+   5317.2
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2362062,
+  "edid": "",
+  "flags": 0,
+  "cell": 20852,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -13,
+   -13
+  ],
+  "pos": [
+   -50532.8,
+   -49369.4,
+   5319.5
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2340669,
+  "edid": "",
+  "flags": 0,
+  "cell": 20858,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -12,
+   -16
+  ],
+  "pos": [
+   -48443.3,
+   -63517.2,
+   15384.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251358,
+  "edid": "",
+  "flags": 0,
+  "cell": 20858,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -12,
+   -16
+  ],
+  "pos": [
+   -49009.5,
+   -62398.9,
+   15728.5
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251360,
+  "edid": "",
+  "flags": 0,
+  "cell": 20861,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -12,
+   -13
+  ],
+  "pos": [
+   -48280.3,
+   -51968.0,
+   8208.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251363,
+  "edid": "",
+  "flags": 0,
+  "cell": 20866,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -11,
+   -16
+  ],
+  "pos": [
+   -43628.8,
+   -64229.8,
+   13683.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251369,
+  "edid": "",
+  "flags": 0,
+  "cell": 20883,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -9,
+   -15
+  ],
+  "pos": [
+   -35264.6,
+   -60286.5,
+   15725.4
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251372,
+  "edid": "",
+  "flags": 0,
+  "cell": 20884,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -9,
+   -14
+  ],
+  "pos": [
+   -33264.8,
+   -57055.9,
+   12230.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251373,
+  "edid": "",
+  "flags": 0,
+  "cell": 20884,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -9,
+   -14
+  ],
+  "pos": [
+   -32844.7,
+   -56395.3,
+   11652.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251374,
+  "edid": "",
+  "flags": 0,
+  "cell": 20884,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -9,
+   -14
+  ],
+  "pos": [
+   -32890.0,
+   -56416.9,
+   11679.6
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251384,
+  "edid": "",
+  "flags": 0,
+  "cell": 20886,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -9,
+   -12
+  ],
+  "pos": [
+   -35981.6,
+   -48927.6,
+   5642.3
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251385,
+  "edid": "",
+  "flags": 0,
+  "cell": 22594,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -15,
+   -11
+  ],
+  "pos": [
+   -61338.4,
+   -42183.6,
+   8411.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251386,
+  "edid": "",
+  "flags": 0,
+  "cell": 9437,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -9,
+   -1
+  ],
+  "pos": [
+   -36076.6,
+   -1876.8,
+   112.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251387,
+  "edid": "",
+  "flags": 0,
+  "cell": 16530,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -10,
+   -5
+  ],
+  "pos": [
+   -39896.6,
+   -17116.9,
+   473.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251388,
+  "edid": "",
+  "flags": 0,
+  "cell": 16570,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -9,
+   -6
+  ],
+  "pos": [
+   -34305.6,
+   -24348.7,
+   258.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251389,
+  "edid": "",
+  "flags": 0,
+  "cell": 16931,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -11,
+   -6
+  ],
+  "pos": [
+   -44277.4,
+   -22100.3,
+   804.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251390,
+  "edid": "",
+  "flags": 0,
+  "cell": 17150,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -15,
+   -5
+  ],
+  "pos": [
+   -59746.2,
+   -17107.2,
+   6567.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251408,
+  "edid": "",
+  "flags": 0,
+  "cell": 17192,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -13,
+   -7
+  ],
+  "pos": [
+   -51220.5,
+   -27903.8,
+   1258.8
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251410,
+  "edid": "",
+  "flags": 0,
+  "cell": 22576,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -16,
+   -8
+  ],
+  "pos": [
+   -61883.4,
+   -30232.6,
+   3644.4
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251411,
+  "edid": "",
+  "flags": 0,
+  "cell": 22581,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -16,
+   -3
+  ],
+  "pos": [
+   -63983.6,
+   -9730.9,
+   4371.8
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251412,
+  "edid": "",
+  "flags": 0,
+  "cell": 24277,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -15,
+   -1
+  ],
+  "pos": [
+   -59096.6,
+   -311.8,
+   5708.4
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251413,
+  "edid": "",
+  "flags": 0,
+  "cell": 1651117,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -8,
+   -28
+  ],
+  "pos": [
+   -32757.8,
+   -112010.1,
+   1338.4
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251414,
+  "edid": "",
+  "flags": 0,
+  "cell": 1651196,
+  "cellEdid": "SuedlicheHalbinsel",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -6,
+   -28
+  ],
+  "pos": [
+   -22795.2,
+   -112414.9,
+   1969.2
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2279340,
+  "edid": "",
+  "flags": 0,
+  "cell": 1651266,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -1,
+   -26
+  ],
+  "pos": [
+   -1753.9,
+   -104025.6,
+   3205.2
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251415,
+  "edid": "",
+  "flags": 0,
+  "cell": 1651272,
+  "cellEdid": "Piratenlager",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -7,
+   -32
+  ],
+  "pos": [
+   -27291.1,
+   -130314.8,
+   84.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251416,
+  "edid": "",
+  "flags": 0,
+  "cell": 1651282,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -2,
+   -29
+  ],
+  "pos": [
+   -7605.9,
+   -118686.1,
+   526.8
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2255936,
+  "edid": "",
+  "flags": 0,
+  "cell": 1651297,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -1,
+   -30
+  ],
+  "pos": [
+   -1646.6,
+   -121089.2,
+   47.4
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251417,
+  "edid": "",
+  "flags": 0,
+  "cell": 20888,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -8,
+   -19
+  ],
+  "pos": [
+   -29600.0,
+   -76190.5,
+   10966.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251420,
+  "edid": "",
+  "flags": 0,
+  "cell": 20899,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -7,
+   -17
+  ],
+  "pos": [
+   -25596.5,
+   -67523.4,
+   13412.6
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251421,
+  "edid": "",
+  "flags": 0,
+  "cell": 1628464,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -7,
+   -20
+  ],
+  "pos": [
+   -25593.0,
+   -80121.3,
+   11531.8
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251425,
+  "edid": "",
+  "flags": 0,
+  "cell": 1651385,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -8,
+   -24
+  ],
+  "pos": [
+   -29840.0,
+   -95264.0,
+   2760.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251426,
+  "edid": "",
+  "flags": 0,
+  "cell": 16622,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -7,
+   -9
+  ],
+  "pos": [
+   -27471.9,
+   -34827.7,
+   1305.8
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251427,
+  "edid": "",
+  "flags": 0,
+  "cell": 16640,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -6,
+   -10
+  ],
+  "pos": [
+   -22425.5,
+   -38097.8,
+   3176.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251428,
+  "edid": "",
+  "flags": 0,
+  "cell": 18659,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -3,
+   -11
+  ],
+  "pos": [
+   -8760.2,
+   -40975.3,
+   8044.5
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2190791,
+  "edid": "",
+  "flags": 0,
+  "cell": 20893,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -8,
+   -14
+  ],
+  "pos": [
+   -29314.9,
+   -54715.6,
+   15703.6
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2278300,
+  "edid": "",
+  "flags": 0,
+  "cell": 20893,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -8,
+   -14
+  ],
+  "pos": [
+   -31704.4,
+   -54491.3,
+   11294.2
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251430,
+  "edid": "",
+  "flags": 0,
+  "cell": 20894,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -8,
+   -13
+  ],
+  "pos": [
+   -30657.8,
+   -51110.7,
+   10795.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2371403,
+  "edid": "",
+  "flags": 0,
+  "cell": 20903,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -7,
+   -13
+  ],
+  "pos": [
+   -25624.4,
+   -51550.2,
+   15648.5
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2371404,
+  "edid": "",
+  "flags": 0,
+  "cell": 20903,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -7,
+   -13
+  ],
+  "pos": [
+   -27251.2,
+   -51883.3,
+   15538.2
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251433,
+  "edid": "",
+  "flags": 0,
+  "cell": 1628465,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -8,
+   -12
+  ],
+  "pos": [
+   -31113.8,
+   -47290.2,
+   5914.5
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251434,
+  "edid": "",
+  "flags": 0,
+  "cell": 4380,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -5,
+   -2
+  ],
+  "pos": [
+   -17199.4,
+   -5132.1,
+   3384.7
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251435,
+  "edid": "",
+  "flags": 0,
+  "cell": 16636,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -7,
+   -2
+  ],
+  "pos": [
+   -24705.5,
+   -4733.9,
+   1803.7
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251436,
+  "edid": "",
+  "flags": 0,
+  "cell": 16666,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -5,
+   -5
+  ],
+  "pos": [
+   -20211.6,
+   -18871.7,
+   2026.9
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2251437,
+  "edid": "",
+  "flags": 0,
+  "cell": 18438,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -4,
+   -8
+  ],
+  "pos": [
+   -14148.9,
+   -29032.3,
+   4792.8
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251438,
+  "edid": "",
+  "flags": 0,
+  "cell": 18458,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2057,
+  "wrldEdid": "NehrimWorldspace",
+  "wrldName": "Nehrim",
+  "grid": [
+   -2,
+   -8
+  ],
+  "pos": [
+   -4685.0,
+   -29825.1,
+   6491.5
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 470286,
+  "edid": "",
+  "flags": 0,
+  "cell": 229948,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 229947,
+  "wrldEdid": "MQ37Start",
+  "wrldName": "",
+  "grid": [
+   0,
+   0
+  ],
+  "pos": [
+   1564.0,
+   2338.0,
+   1286.8
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2277568,
+  "edid": "",
+  "flags": 0,
+  "cell": 1783893,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 1775254,
+  "wrldEdid": "Arktwend",
+  "wrldName": "Arktwend",
+  "grid": [
+   -8,
+   43
+  ],
+  "pos": [
+   -32496.7,
+   176746.2,
+   418.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2371239,
+  "edid": "",
+  "flags": 0,
+  "cell": 1783959,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 1775254,
+  "wrldEdid": "Arktwend",
+  "wrldName": "Arktwend",
+  "grid": [
+   -3,
+   43
+  ],
+  "pos": [
+   -11781.4,
+   179100.5,
+   730.1
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2348337,
+  "edid": "",
+  "flags": 0,
+  "cell": 2119768,
+  "cellEdid": "DarothmarCenter",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2119767,
+  "wrldEdid": "DarothmarWorldPart02",
+  "wrldName": "Darothmar",
+  "grid": [
+   0,
+   0
+  ],
+  "pos": [
+   2460.9,
+   3482.5,
+   704.0
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2348362,
+  "edid": "",
+  "flags": 0,
+  "cell": 2119768,
+  "cellEdid": "DarothmarCenter",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2119767,
+  "wrldEdid": "DarothmarWorldPart02",
+  "wrldName": "Darothmar",
+  "grid": [
+   0,
+   0
+  ],
+  "pos": [
+   3378.9,
+   490.4,
+   983.2
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2348367,
+  "edid": "",
+  "flags": 0,
+  "cell": 2119983,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2119767,
+  "wrldEdid": "DarothmarWorldPart02",
+  "wrldName": "Darothmar",
+  "grid": [
+   0,
+   -1
+  ],
+  "pos": [
+   479.1,
+   -326.9,
+   934.6
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2348366,
+  "edid": "",
+  "flags": 0,
+  "cell": 2119983,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2119767,
+  "wrldEdid": "DarothmarWorldPart02",
+  "wrldName": "Darothmar",
+  "grid": [
+   0,
+   -1
+  ],
+  "pos": [
+   2730.5,
+   -1235.3,
+   973.9
+  ]
+ },
+ {
+  "kind": "iceclaw",
+  "ref": 2251441,
+  "edid": "",
+  "flags": 0,
+  "cell": 2172746,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2171579,
+  "wrldEdid": "SildrenBerglager",
+  "wrldName": "Mountain Camp",
+  "grid": [
+   1,
+   -1
+  ],
+  "pos": [
+   4674.7,
+   -3385.6,
+   143.3
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2177417,
+  "edid": "",
+  "flags": 0,
+  "cell": 2177335,
+  "cellEdid": "ErothinFesteCell",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2176827,
+  "wrldEdid": "ErothinFeste",
+  "wrldName": "",
+  "grid": [
+   -10,
+   24
+  ],
+  "pos": [
+   -37670.4,
+   98486.5,
+   3454.4
+  ]
+ },
+ {
+  "kind": "symbol",
+  "ref": 2273169,
+  "edid": "",
+  "flags": 0,
+  "cell": 2254973,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2254830,
+  "wrldEdid": "NexusPlanetarium",
+  "wrldName": "The Planetarium",
+  "grid": [
+   1,
+   -1
+  ],
+  "pos": [
+   5055.1,
+   -426.4,
+   332.0
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 2303358,
+  "edid": "",
+  "flags": 0,
+  "cell": 2303028,
+  "cellEdid": "StoneworldEnter",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2302209,
+  "wrldEdid": "NQ15StoneWorld",
+  "wrldName": "Stoneworld",
+  "grid": [
+   0,
+   -1
+  ],
+  "pos": [
+   3025.4,
+   -2395.8,
+   1087.8
+  ]
+ },
+ {
+  "kind": "firespark",
+  "ref": 134151,
+  "edid": "",
+  "flags": 0,
+  "cell": 2334556,
+  "cellEdid": "",
+  "cellName": "",
+  "interior": false,
+  "wrld": 2333968,
+  "wrldEdid": "MQ37Island",
+  "wrldName": "Lonely Island",
+  "grid": [
+   -1,
+   1
+  ],
+  "pos": [
+   -1243.7,
+   6076.6,
+   56.1
+  ]
+ }
+]

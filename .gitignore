@@ -1,4 +1,4 @@
-tools/
+.venv/
 research/
 specs/
 __pycache__/

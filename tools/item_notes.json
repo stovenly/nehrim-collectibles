@@ -1,0 +1,23 @@
+{
+  "potion": {
+    "SchattenrufMinePart01": "Second level, at the bottom of the chasm in an overturned barrel. Can't be retrieved once you leave the mine.",
+    "ApfelhornhofTeil1": "During the bounty quest The Applesmuggler.",
+    "MinenstollenAmSuedpass02": "During the side quest Traces.",
+    "StahltrossminePart03": "Level 3, in a smelter box, during the side quest The Cry from the Deep.",
+    "MeerestorTurm": "During the bounty quest The undead Duchess.",
+    "NQWanted0114GiftmischerGewoelbe": "During the bounty quest The poisoner.",
+    "MQ37ErothinFesteKapelle": "During the main quest The Task of Fathoming.",
+    "MQ38TempelDerSeelenwaechter02": "During the main quest In the Jail of Souls.",
+    "NaradothPart02": "Second level."
+  },
+  "almanac": {
+    "VerlassenesLagerHuette": "In the corner on top of a barrel.",
+    "KleineHoehle": "At the end, inside the ruin structure."
+  },
+  "firespark": {
+    "ErothinBank": "In lock-box 212."
+  },
+  "iceclaw": {
+    "ErothinBank": "In lock-box 212."
+  }
+}
