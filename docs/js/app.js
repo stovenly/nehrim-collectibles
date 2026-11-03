@@ -228,9 +228,17 @@ function listItem(i) {
       found ? el('span', { className: 'badge ok', textContent: 'collected' }) : null,
       el('span', { className: 'item-id', textContent: i.id, title: i.ref ? `${KINDS[i.kind].one} · reference ${i.ref.toString(16).toUpperCase().padStart(8, '0')}` : KINDS[i.kind].one })),
     el('div', { className: 'item-where', textContent: where(i) }),
-    i.note ? el('div', { className: 'item-note', textContent: i.note }) : null);
+    i.note ? el('div', { className: 'item-note', textContent: i.note }) : null,
+    state.selected.has(i.id) ? localMap(i) : null);
   li.addEventListener('click', () => { select([i]); focusItem(i); });
   return li;
+}
+
+function localMap(i) {
+  if (!i.ref && !i.holder) return null;
+  const box = el('div', { className: 'item-map' });
+  box.append(el('img', { src: asset(`img/local/${i.id}.webp`), alt: `Local map around ${title(i)}`, onerror: () => box.remove() }));
+  return box;
 }
 
 // ---------- map ----------
@@ -327,7 +335,12 @@ pins.addEventListener('click', e => {
 function select(items, scroll = false) {
   state.selected = new Set(items.map(i => i.id));
   for (const n of $('list').querySelectorAll('.item.active')) n.classList.remove('active');
+  for (const n of $('list').querySelectorAll('.item-map')) n.remove();
   const nodes = items.map(i => document.getElementById(`item-${i.id}`)).filter(Boolean);
+  for (const i of items) {
+    const box = localMap(i);
+    if (box) document.getElementById(`item-${i.id}`)?.append(box);
+  }
   for (const n of nodes) {
     n.classList.add('active');
     n.classList.remove('flash');

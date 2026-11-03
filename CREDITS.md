@@ -8,8 +8,17 @@ content belong to SureAI, including everything here taken from it:
 - the collectible placements, read out of `Nehrim.esm`
 - the item icons, the Nehrim mark, and the leather, parchment and rule textures, taken from the game's archives
 - the Arktwend world map, taken from the game's archives
+- the local map images in `docs/img/local`, rendered from the game's world data, meshes and textures, including its map paper
 
-This is a fan project and is not affiliated with or endorsed by SureAI.
+This is a fan project and is not affiliated with or endorsed by SureAI or Bethesda Softworks.
+
+## Local maps
+
+`tools/localmap.py` reproduces the look of the local maps drawn by the Oblivion engine, © Bethesda Softworks.
+Its camera, render passes and ink and paper shading were worked out by disassembling `Oblivion.exe` and the
+game's compiled shaders. It contains none of the game's code, shaders or assets, and reads the assets from a
+local install when it runs. It differs from the game in leaving out trees and the panels that hide secret rooms,
+and in fitting each interior to the image.
 
 ## Map
 
@@ -52,4 +61,7 @@ All under the [SIL Open Font License 1.1](https://openfontlicense.org).
 | Work | Author | Used for |
 |---|---|---|
 | [Pillow](https://python-pillow.github.io) | Jeffrey A. Clark and contributors | Converting game textures and map tiles |
-| [The Elder Scrolls Construction Set](https://en.uesp.net/wiki/Oblivion_Mod:Construction_Set) | Bethesda Softworks | Inspecting cells and exporting local maps while placing collectibles |
+| [The Elder Scrolls Construction Set](https://en.uesp.net/wiki/Oblivion_Mod:Construction_Set) | Bethesda Softworks | Inspecting cells while placing collectibles |
+| [PyFFI](https://github.com/niftools/pyffi) | NifTools developers | Reading the game's meshes for the local maps |
+| [ModernGL](https://github.com/moderngl/moderngl) | Szabolcs Dombi | Rendering the local maps |
+| [NumPy](https://numpy.org) | NumPy developers | Geometry and shading for the local maps |
