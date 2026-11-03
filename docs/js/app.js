@@ -195,13 +195,7 @@ function title(i) {
 function where(i) {
   const bits = [];
   if (i.ingredient) bits.push('Ingredient');
-  if (i.near) {
-    const rel = i.near.metres < 25 ? `at ${i.near.name}` : `${i.near.metres} m ${i.near.dir} of ${i.near.name}`;
-    bits.push(i.viaDoor ? `Entrance ${rel}` : rel[0].toUpperCase() + rel.slice(1));
-  }
   if (i.map?.world === 'arktwend') bits.push('Arktwend');
-  if (i.realm && !i.map) bits.push('Separate area, not on the world map');
-  if (i.cell) bits.push(`cell ${i.cell}`);
   return bits.join(' · ');
 }
 
@@ -227,8 +221,10 @@ function listItem(i) {
       el('span', { className: 'item-title', textContent: title(i) }),
       found ? el('span', { className: 'badge ok', textContent: 'collected' }) : null,
       el('span', { className: 'item-id', textContent: i.id, title: i.ref ? `${KINDS[i.kind].one} · reference ${i.ref.toString(16).toUpperCase().padStart(8, '0')}` : KINDS[i.kind].one })),
-    el('div', { className: 'item-where', textContent: where(i) }),
+    where(i) ? el('div', { className: 'item-where', textContent: where(i) }) : null,
     i.note ? el('div', { className: 'item-note', textContent: i.note }) : null,
+    i.missable ? el('div', { className: 'item-note missable-note', textContent: i.missable }) : null,
+    i.available ? el('div', { className: 'item-note available-note', textContent: i.available }) : null,
     state.selected.has(i.id) ? localMap(i) : null);
   li.addEventListener('click', () => { select([i]); focusItem(i); });
   return li;

@@ -1,0 +1,99 @@
+{
+  "FS01": {
+    "note": "On the shore, about 75 m north of the door you arrive through, among the beach rocks.",
+    "missable": "Only reachable during the main quest The Task of Fathoming."
+  },
+  "FS04": {
+    "note": "In the fern forest, about 20 m north-east of the door you arrive through.",
+    "missable": "Only reachable during the main quest The Task of Fathoming."
+  },
+  "AC22": {
+    "note": null,
+    "missable": "Only obtainable during the main quest The Task of Fathoming."
+  },
+  "PE05": {
+    "note": null,
+    "missable": "Only reachable during the main quest The Task of Fathoming."
+  },
+  "PE20": {
+    "note": "Second level, at the bottom of the chasm in an overturned barrel.",
+    "missable": "Only reachable during the main quest Shadow and Light."
+  },
+  "MS090": {
+    "note": "In one of the rooms after the exit from the Great Library Hall.",
+    "missable": "Only reachable during the main quest Hope at the End of the World."
+  },
+  "MS006": {
+    "note": "In the small tower guarded by an Acolyte, southwest of the graves.",
+    "available": "Becomes available at the end of the side quest Traces."
+  },
+  "MS029": {
+    "note": "In Bank Locker 1221.",
+    "available": "Becomes available during the side quest Traces."
+  },
+  "MS079": {
+    "note": "In a hallway in the fourth area.",
+    "missable": "Only reachable during the main quest Shadow and Light."
+  },
+  "MS081": {
+    "note": "House across from Elriko's Goods, on the bookshelf.",
+    "available": "Becomes available during the main quest The Help of the Fallen."
+  },
+  "MS092": {
+    "note": "In plain sight in the sixth level.",
+    "missable": "Only reachable during the main quest Shadow and Light."
+  },
+  "MS099": {
+    "note": "On a hanging platform near the large ramp in the third level.",
+    "available": "Becomes available during the side quest The Cry from the Deep."
+  },
+  "PE04": {
+    "note": null,
+    "available": "Becomes available during the main quest In the Jail of Souls."
+  },
+  "PE06": {
+    "note": null,
+    "available": "Becomes available during the bounty quest The Undead Duchess."
+  },
+  "PE08": {
+    "note": "Level 3, in a smelter box.",
+    "available": "Becomes available during the side quest The Cry from the Deep."
+  },
+  "PE10": {
+    "note": null,
+    "available": "Becomes available during the bounty quest The Applesmuggler."
+  },
+  "PE12": {
+    "note": null,
+    "available": "Becomes available during the bounty quest The Poisoner."
+  },
+  "PE13": {
+    "note": null,
+    "available": "Becomes available during the side quest Traces."
+  },
+  "FS-I05": {
+    "note": "On the Dwarven Thief's corpse.",
+    "available": "Becomes available during the side quest The Dwarven Thief."
+  },
+  "FS02": {
+    "note": null,
+    "available": "Becomes available during the side quest Advanced Tower Defense."
+  },
+  "IC-I02": {
+    "available": "Becomes available during the side quest Advanced Tower Defense."
+  },
+  "IC-I04": {
+    "note": "In the hard reward barrel.",
+    "available": "Becomes available during the side quest Advanced Tower Defense."
+  },
+  "IC-I05": {
+    "note": "In the hard reward barrel.",
+    "available": "Becomes available during the side quest Advanced Tower Defense."
+  },
+  "MS013": {
+    "note": "In the middle of the camp."
+  },
+  "MS026": {
+    "note": "Sitting next to some coffins in the large center room of the ruins."
+  }
+}

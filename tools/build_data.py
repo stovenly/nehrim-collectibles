@@ -40,16 +40,14 @@ WORLDS = {
     ARKTWEND: dict(key='arktwend', tex='arktwendworldmapkontinental.dds', crop=(600, 380, 1500, 960)),
 }
 
-REALM_NAMES = {'MQ37Start': 'Main quest: The Task of Fathoming', 'MQ37ErothinVorhof': 'Main quest: The Task of Fathoming'}
+REALM_NAMES = {'MQ37Start': 'Wrong World', 'MQ37ErothinVorhof': 'Wrong World'}
 # Interiors only reachable through quest teleports; door-following would pin them somewhere misleading.
 NO_MAP_CELLS = {'InodanSeraphimgruft'}
 # Realms with no load door back out; pin their contents at the world marker you go through to reach them.
 REALM_ENTRANCES = {'DarothmarWorldPart01': 'Portal of Darothmar', 'DarothmarWorldPart02': 'Portal of Darothmar'}
 PLANT_NOTES = {
-    'FS01': 'Only reachable during the main quest The Task of Fathoming. On the shore of the Lonely Island, about 75 m '
-            'north of the door you arrive through, among the beach rocks. Gone once the quest is over.',
-    'FS04': 'Only reachable during the main quest The Task of Fathoming. In the fern forest, about 20 m north-east of '
-            'the door you arrive through. Gone once the quest is over.',
+    'FS01': 'On the shore, about 75 m north of the door you arrive through, among the beach rocks.',
+    'FS04': 'In the fern forest, about 20 m north-east of the door you arrive through.',
     'FS02': 'Stoneworld (Zerobilon).',
     'FS03': 'Inside the Portal of Darothmar.',
     'IC001': 'Sildren Mountain Camp.',
@@ -298,6 +296,13 @@ for fid, w in WORLDS.items():
     worlds[w['key']] = dict(name=full(fid), image=f"data/{w['key']}.webp", width=im.width, height=im.height)
     if w.get('tiles'):
         worlds[w['key']]['tiles'] = w['tiles']
+
+item_text = json.loads((ROOT / 'tools' / 'item_text.json').read_text(encoding='utf-8'))
+assert set(item_text) <= {i['id'] for i in items}
+for it in items:
+    it.update(item_text.get(it['id'], {}))
+    if it.get('note') is None:
+        it.pop('note', None)
 
 (OUT / 'collectibles.json').write_text(json.dumps(
     dict(worlds=worlds, symbolVar=NEHRIM_SYMBOL_VAR, items=items),

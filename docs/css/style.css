@@ -15,8 +15,11 @@
   color-scheme: light;
 }
 body.is-dyslexic { --serif: "OpenDyslexic", Georgia, serif; --sc: "OpenDyslexic", Georgia, serif; }
-/* OpenDyslexic draws far larger at the same size; this matches its x-height to IM Fell's. */
-body.is-dyslexic :not(code, .pin > span, .map-ctrl button, .item-id, .rowid) { font-size-adjust: .4; }
+/* OpenDyslexic runs about 30% wider than the site fonts; these keep lines wrapping where they do without it. */
+body.is-dyslexic :where(:not(code, .pin > span, .map-ctrl button, .item-id, .rowid)) { font-size-adjust: .36; letter-spacing: -.07em !important; word-spacing: -.18em; }
+body.is-dyslexic :is(h1, h2, .item-title, .chip, .reload), body.is-dyslexic :is(h1, h2, .item-title, .chip, .reload) :where(:not(code, .pin > span, .map-ctrl button, .item-id, .rowid)) { font-size-adjust: .38; letter-spacing: -.06em !important; word-spacing: -.16em; }
+/* OpenDyslexic's digits collide under negative spacing. */
+body.is-dyslexic #save-line, body.is-dyslexic .tally-sub { letter-spacing: 0 !important; }
 
 * { box-sizing: border-box; }
 html { background: #1b120a; }
@@ -63,15 +66,15 @@ h1::after {
   opacity: .9;
 }
 
-.drop { margin-block: 22px; cursor: pointer; outline: none; }
+.drop { margin-block: 22px; max-width: 920px; margin-inline: auto; cursor: pointer; outline: none; }
 .drop-inner { padding: 22px 14px; text-align: center; border: 1.5px dashed var(--rule); border-radius: 4px; transition: background .15s; }
 .drop:hover .drop-inner, .drop:focus-visible .drop-inner, .drop.over .drop-inner { background: rgba(120, 80, 30, .1); border-color: var(--ink-2); }
 .drop-title { font-size: 21px; margin: 0 0 6px; }
 .browse { display: inline-flex; align-items: center; gap: 6px; text-decoration: underline; text-underline-offset: 2px; }
 .browse svg { vertical-align: -4px; }
 .drop:hover .browse, .drop:focus-visible .browse { color: var(--red); }
-.drop-hint { margin: 2px 0; color: var(--ink-2); font-size: 14px; }
-.drop-note { margin: 12px 0 0; color: var(--ink-2); font-size: 14.5px; }
+.drop-hint { margin: 2px 0; color: var(--ink-2); font-size: 17px; }
+.drop-note { margin: 12px 0 0; color: var(--ink-2); font-size: 18px; }
 
 .about { margin-block: 22px; max-width: 920px; margin-inline: auto; }
 .about h2 { font-family: var(--sc); font-weight: 400; font-size: 25px; margin: 22px 0 6px; }
@@ -79,14 +82,14 @@ h1::after {
 .about p { margin: 0 0 10px; }
 .about-list { margin: 0 0 10px; padding-left: 1.15em; }
 .about-list li { margin-bottom: 3px; }
-.copy { margin-left: 4px; padding: 1px 10px; border: 1px solid var(--ink-2); border-radius: 3px; background: rgba(255, 245, 220, .5); color: var(--ink); font: inherit; font-size: 13px; cursor: pointer; }
+.copy { margin-left: 4px; padding: 1px 10px; border: 1px solid var(--ink-2); border-radius: 3px; background: rgba(255, 245, 220, .5); color: var(--ink); font: inherit; font-size: 14px; cursor: pointer; }
 .copy:hover { background: rgba(255, 245, 220, .9); }
 
 .error { color: var(--red); margin-block: 12px; }
 
 .save-card { display: flex; flex-wrap: wrap; gap: 16px; align-items: center; }
 .reload { margin-left: auto; padding: 7px 16px; font: 17px var(--sc); }
-#shot { width: 170px; max-width: 35%; height: auto; flex: none; border: 3px solid #4a3218; box-shadow: 0 2px 6px rgba(0, 0, 0, .45); background: #000; }
+#shot { width: 256px; max-width: 100%; height: auto; flex: none; border: 3px solid #4a3218; box-shadow: 0 2px 6px rgba(0, 0, 0, .45); background: #000; }
 #shot[width="0"] { display: none; }
 .save-meta h2 { font-family: var(--sc); font-weight: 400; margin: 0; font-size: 28px; line-height: 1.1; }
 .save-meta p { margin: 2px 0; }
@@ -167,6 +170,7 @@ h1::after {
 .tip div + div { margin-top: 3px; }
 
 .crumbs { color: rgba(236, 220, 180, .8); font-size: 14.5px; margin: 0 0 10px; text-shadow: 0 1px 2px #000; }
+.crumbs:has(+ .drop:not([hidden])) { max-width: 920px; margin-inline: auto; }
 .crumbs a { color: var(--gold); }
 
 .loc-panel { max-width: 920px; margin-inline: auto; }
@@ -200,6 +204,8 @@ h1::after {
 .item-id { margin-left: auto; font: 11px ui-monospace, Consolas, monospace; color: var(--ink-2); }
 .item-where { font-size: 14.5px; color: var(--ink-2); font-style: italic; margin-left: 34px; }
 .item-note { font-size: 16px; margin: 2px 0 0 34px; }
+.missable-note { color: #9c2f23; font-size: 15px; }
+.available-note { color: var(--ink-2); font-size: 15px; }
 .item-map { position: relative; max-width: 384px; aspect-ratio: 1; margin: 8px 0 4px 34px; border: 1px solid var(--ink-2); }
 .item-map img { display: block; width: 100%; height: 100%; }
 .badge { font-size: 13px; font-style: italic; color: var(--ink-2); white-space: nowrap; }
