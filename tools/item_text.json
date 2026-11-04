@@ -1,11 +1,11 @@
 {
   "FS01": {
     "note": "On the shore, about 75 m north of the door you arrive through, among the beach rocks.",
-    "missable": "Only reachable during the main quest The Task of Fathoming."
+    "missable": "Only obtainable during the main quest The Task of Fathoming."
   },
   "FS04": {
     "note": "In the fern forest, about 20 m north-east of the door you arrive through.",
-    "missable": "Only reachable during the main quest The Task of Fathoming."
+    "missable": "Only obtainable during the main quest The Task of Fathoming."
   },
   "AC22": {
     "note": null,
@@ -13,15 +13,15 @@
   },
   "PE05": {
     "note": null,
-    "missable": "Only reachable during the main quest The Task of Fathoming."
+    "missable": "Only obtainable during the main quest The Task of Fathoming."
   },
   "PE20": {
     "note": "Second level, at the bottom of the chasm in an overturned barrel.",
-    "missable": "Only reachable during the main quest Shadow and Light."
+    "missable": "Only obtainable during the main quest Shadow and Light."
   },
   "MS090": {
     "note": "In one of the rooms after the exit from the Great Library Hall.",
-    "missable": "Only reachable during the main quest Hope at the End of the World."
+    "missable": "Only obtainable during the main quest Hope at the End of the World."
   },
   "MS006": {
     "note": "In the small tower guarded by an Acolyte, southwest of the graves.",
@@ -33,7 +33,7 @@
   },
   "MS079": {
     "note": "In a hallway in the fourth area.",
-    "missable": "Only reachable during the main quest Shadow and Light."
+    "missable": "Only obtainable during the main quest Shadow and Light."
   },
   "MS081": {
     "note": "House across from Elriko's Goods, on the bookshelf.",
@@ -41,7 +41,7 @@
   },
   "MS092": {
     "note": "In plain sight in the sixth level.",
-    "missable": "Only reachable during the main quest Shadow and Light."
+    "missable": "Only obtainable during the main quest Shadow and Light."
   },
   "MS099": {
     "note": "On a hanging platform near the large ramp in the third level.",
